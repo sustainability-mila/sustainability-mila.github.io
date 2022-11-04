@@ -1,0 +1,36 @@
+{% if donor.isConfirmed %}
+<div class="columns container">
+	<div class="column is-one-fifth"></div>
+	<div class="column">
+		<div class="card">
+			<div class="card-content">
+				<div class="media">
+					<div class="media-left">
+						<figure class="image is-128x128">
+							{% if donor.logo != "none" %}
+							<img src="assets/img/donors/{{ donor.logo }}" alt="{{ donor.alttext }}" />
+							{% endif %}
+						</figure>
+					</div>
+					<div class="media-content">
+						<p class="title is-4">{{ donor.fullname }}</p>
+						<p class="subtitle is-6">{{ donor.location }}</p>
+						<p class="subtitle is-5">{{ donor.areas }}</p>
+						{% if donor.motto != "none" %}
+						<p class="subtitle is-6">{{ donor.motto }}</p>
+						{% endif %}
+					</div>
+				</div>
+				<div class="content">
+					{% if donor.website != "none" %}
+					<a class="tag" href="{{ donor.website }}">Website</a>
+					{% endif %} {% if donor.twitter != "none" %}
+					<a class="tag" href="{{ donor.twitter }}">Twitter</a>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="column is-one-fifth"></div>
+</div>
+{% endif %}

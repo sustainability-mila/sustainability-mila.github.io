@@ -18,7 +18,7 @@
       link: https://twitter.com/timnitGebru
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/hDuFo
     - name: YouTube
       link: https://www.youtube.com/watch?v=QT1htqtkknA
   skip: False
@@ -48,7 +48,9 @@
       link: https://yoshuabengio.org/
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/stAnz
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=uOzCKnTDvqY
   skip: False
 
 - fullname: Yoshua Bengio
@@ -73,6 +75,94 @@
       link: https://yoshuabengio.org/
   skip: True
 
+- fullname: Irina Rish
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: Prof.
+  position: Professor at Mila
+  bio: "Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member at MILA - Quebec AI Institute.
+
+  She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Before joining UdeM and MILA in 2019, Irina was a research scientist at the IBM T.J. Watson Research Center, where she worked on various projects at the intersection of neuroscience and AI. Dr. Rish received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute.
+
+  Dr. Rish received multiple IBM awards, holds 64 patents, co-organized a great number of workshops, and served on several editorial boards and conference chairs.
+
+  Over the past decades, her research has spanned multiple areas of AI, ranging from automated reasoning, neural data analysis to neuroscience-inspired AI. Currently, she is working on research areas such as continual learning, out-of-distribution generalization and robustness of neural networks, which she considers as essential for achieving the holy grail of the AI field, Artificial General Intelligence.
+  "
+  photo: irina_rish.jpg
+  alttext: Prof. Irina Rish
+  title: "Computational Psychology and Psychological Computation: How AI and Brain Sciences Can Help Each Other"
+  abstract: "The rapidly developing field of computational psychology/psychiatry aims to bridge the gap between the “legacy” approaches still prevalent in mental health care that rely on primarily subjective self-reports and subjective evaluations by doctors - in a stark contrast to other scientific and medical fields where objective tests (e.g. blood work, X-ray, MRI) are typically used to provide an objective basis for diagnosis and prognosis. The promise of computational psychiatry is to bring psychological diagnosis to a more solid ground based on objective measurements, potentially including brain imaging, wearable sensor data, as well as statistical analysis of speech and text data - the are where modern AI techniques can prove highly useful, I will briefly mention some past and ongoing work by our group and collaborators in this directions, from developing more robust statistical models across brain imaging datasets, aiming at learning invariant features of a mental state or a person across varying setting, to transferring knowledge extracted across different data modalities, following recent advances in large-scale pretrained deep neural network models whose transfer capabilities appear to go far beyond what was previously considered possible. However, the road between AI and brain sciences is bidirectional: among many ways in which neuroscience, psychiatry and psychology can inspire novel AI approaches, the ability of an AI system to maintain “meaningful” dialog with a person, and reaching certain objectives of the dialog (e.g., application of AI in semi-automated therapy), can be considerably improved by importing certain practices and ideas from the therapeutic dialog into AI language models (I will briefly summarize our prior work on depression therapy dialogues). Finally, given the rapid advances in the capabilities of large scale models in the past 1-2 years, sometimes called a “scaling revolution” these days, also increase the importance of developing AI systems that are aligned with human values and can avoid harming humans while remaining useful to them - the blossoming field of AI Alignment (as a subfield of AI Safety, which, beyond alignment problem, includes robustness and interpretability of AI systems). The vast amount of practical knowledge from the fields of psychology and neuroscience, and from psychiatric therapy practice, can be clearly very advancing the AI Alignment field."
+  session: virtual
+  date: 20221107
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://irina-rish.com/
+    - name: Twitter
+      link: https://twitter.com/irinarish
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
+- fullname: Hannah Kerner
+  affiliations:
+  - School of Computing and Augmented Intelligence, University of Maryland
+  - NASA, Harvest
+  nametitle: Prof.
+  position: Assistant Professor at the School of Computing and Augmented Intelligence at University of Maryland
+  bio: "Hannah Kerner is Assistant Professor in the School of Computing and Augmented Intelligence at the University of Maryland. Her research focuses on developing and advancing machine learning systems needed to address the world’s most pressing challenges, including food security, climate change and space exploration.
+
+  As the machine learning lead and U.S. domestic co-lead for the NASA Harvest program, she is deploying research methods in real operations for stakeholders in industry, government and humanitarian organizations.
+
+  In 2021, she was recognized on the Forbes 30 Under 30 list in science.
+
+  Hannah Kerner also communicates challenges for developing ML applications for real-world problems and is passionate about advancing opportunities for people who have traditionally been underrepresented in computer science."
+  photo: hannah_kerner.jpg
+  alttext: Prof. Hannah Kerner
+  session: virtual
+  date: 20221111
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://hannah-rae.github.io/
+    - name: Twitter
+      link: https://twitter.com/hannah_kerner
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
+- fullname: Inbal Becker-Reshef
+  affiliations:
+  - NASA Harvest
+  - Department of Geographical Sciences, University of Maryland
+  nametitle: Prof.
+  position: Director of NASA Harvest, Professor at University of Maryland
+  bio: "Dr. Becker-Reshef is the Director of NASA Harvest (NASA’s Applied Science Program on Food Security and Agriculture), and Research Professor at the University of Maryland. Her work is focused on the application of Earth Observations for agricultural monitoring from the field to global scales, supporting decisions in food security, sustainability, and agricultural markets.
+
+  She worked closely with national and international partners to initiate the GEOGLAM (GEO Global Agricultural Monitoring) Program, adopted by the G20 in 2011 under the action plan on food price volatility and agriculture. Within this program she is a Program Scientists at the GEOGLAM Secretariat, leading the Crop Monitor initiative. She is a member of the G20 AMIS Steering Committee, UN 50X2030 Technical Advisory Group, US National Committee for IIASA, GEOGLAM-Committee on Earth Observation Satellites (CEOS) Technical Team, NASA Water Resources Applied Science Team, and led the NASA SERVIR Food Security and Agriculture Theme of the Applied Sciences Team (2016-2019).
+
+  Her background is in soil sciences and remote sensing and she received her Ph.D in 2012 in Geographical Sciences from the University of Maryland.
+
+  She was recognized by the US State Department, for her work on Food Security and Technologies winning US Asia-Pacific Economic Cooperation (APEC) Science Prize for Innovation, Research, and Education (ASPIRE) awarded by John Holdren, Former Assistant to the President for Science and Technology."
+
+  photo: inbal_becker-reshef.jpg
+  alttext: Prof. Inbal Becker-Reshef
+  session: virtual
+  date: 20221111
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://nasaharvest.org/partner/inbal-becker-reshef
+    - name: Twitter
+      link: https://twitter.com/beckerinbal
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
 - fullname: Max Welling
   affiliations:
   - AMLAB, University of Amsterdam
@@ -89,6 +179,8 @@
   "
   photo: max_welling.jpg
   alttext: Prof. Max Welling
+  title: "Generating and steering molecules with ML and RL"
+  abstract: "After speech, text, image and video, a whole new application area is opening up for deep learning technology: accelerating molecular simulation. In this talk I will highlight two such methods in Transition Path Sampling and Ligand-Protein docking."
   session: virtual
   date: 20221114
   time: "16:00"
@@ -97,6 +189,9 @@
       link: https://staff.fnwi.uva.nl/m.welling/
     - name: Twitter
       link: https://twitter.com/wellingmax
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Regina Barzilay
@@ -123,6 +218,9 @@
       link: https://www.regina.csail.mit.edu/
     - name: Twitter
       link: https://twitter.com/BarzilayRegina
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: David Rolnick
@@ -151,6 +249,9 @@
       link: https://davidrolnick.com/
     - name: Twitter
       link: https://twitter.com/david_rolnick
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Michael Bronstein
@@ -177,6 +278,9 @@
       link: https://www.cs.ox.ac.uk/people/michael.bronstein/
     - name: Twitter
       link: https://twitter.com/mmbronstein
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Alexei Efros
@@ -201,31 +305,9 @@
   tags:
     - name: Website
       link: https://people.eecs.berkeley.edu/~efros/
-  skip: False
-
-- fullname: Anna Goldenberg
-  affiliations:
-  - Vector Institute for Artificial Intelligence
-  - Department of Computer Science, University of Toronto
-  - SickKids Research Institute
-  nametitle: Prof.
-  position: Professor at University of Toronto, Chair in Biomedical Informatics and Artificial Intelligence at the Hospital for Sick Children
-  bio: "Anna Goldenberg is famous for her research on how machine learning can be used to map the heterogeneity seen in various human diseases. Her lab develops methodologies to identify patterns in collected data and improve patient outcomes. The “Similarity Network Fusion” she co-developed was the first patient data integration method that improved survival outcome predictions in different cancers.
-
-  Goldenberg is professor at the University of Toronto and holds a CIFAR AI Chair. She was the first to receive a chair in biomedical informatics and AI at the Hospital for Sick Children.
-
-  Among other awards, Anna Goldenberg received the Early Researcher Award from the Ministry of Research and Innovation.
-
-  Since she is strongly committed to creating responsible AI to benefit patients across a variety of conditions, she also put forward publication such as “Do no harm: a roadmap for responsible machine learning for health care” (Nature Medicine, 2019).
-  "
-  photo: anna_goldenberg.jpg
-  alttext: Prof. Anna Goldenberg
-  session: tbd
-  date: 20221121
-  time: "15:00"
-  tags:
-    - name: Website
-      link: http://goldenberglab.ca/
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Sara Beery
@@ -254,6 +336,42 @@
     - name: Twitter
       link: https://twitter.com/sarameghanbeery
   skip: False
+
+- fullname: Anna Goldenberg
+  affiliations:
+  - Vector Institute for Artificial Intelligence
+  - Department of Computer Science, University of Toronto
+  - SickKids Research Institute
+  nametitle: Prof.
+  position: Professor at University of Toronto, Chair in Biomedical Informatics and Artificial Intelligence at the Hospital for Sick Children
+  bio: "Anna Goldenberg is famous for her research on how machine learning can be used to map the heterogeneity seen in various human diseases. Her lab develops methodologies to identify patterns in collected data and improve patient outcomes. The “Similarity Network Fusion” she co-developed was the first patient data integration method that improved survival outcome predictions in different cancers.
+
+  Goldenberg is professor in the departments of Computer Science and the Laboratory Medicine and Pathobiology at the University of Toronto. She is a Varma Family Chair in Biomedical Informatics and Artificial Intelligence at SickKids Research Institute as well as a CIFAR AI chair at  the Vector Institute.
+
+  Dr. Goldenberg trained in machine learning at Carnegie Mellon University, with a postdoctoral focus in computational biology and medicine. The current focus of her lab is on developing and deploying machine learning models to healthcare.
+
+  Among other awards, Anna Goldenberg received the Early Researcher Award from the Ministry of Research and Innovation.
+
+  Dr. Goldenberg’s lab is strongly committed to creating responsible AI to benefit patients across a variety of conditions.
+  "
+  photo: anna_goldenberg.jpg
+  alttext: Prof. Anna Goldenberg
+  title: "Time series ML for deployment in healthcare"
+  abstract: "There is growing support and excitement around AI integration into clinical practice. And yet, enabling AI in healthcare broadly is replete with many obstacles including fundamentally unresolved machine learning issues. In this talk I will cover several of our contributions to time series modeling including explainability, representation learning and generative modeling that we have worked on to date. I will also discuss some of the broader computer science contributions we had to make in order to get us closer to deployment. Finally, if time permits, I will touch on an important question of feedback loop, i.e. what happens when an ML solution is deployed and is starting to affect the labels that we are using to retrain and improve our models."
+  session: inperson
+  date: 20221208
+  time: "11:30"
+  tags:
+    - name: Website
+      link: http://goldenberglab.ca/
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
+
+
+
 # for what is the person known
 # which positions does he have
 # which prizes did he earn

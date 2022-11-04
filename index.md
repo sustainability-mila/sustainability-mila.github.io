@@ -7,14 +7,22 @@ toc: false
 
 {% include registration-button.html %}
 
+{% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
+
 # What
 
 <img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
 AI Helps Ukraine is a charity conference for raising funds to support Ukrainians facing the severe humanitarian crisis. We bring together [the leading experts of AI](./speakers) to present recent advances in the field and attract attention of the AI community to those who are in urgent need.
 
-The conference consists of two parts: a series of online talks taking place online **in November 2022** and an in-person full-day conference happening on **December 8th 2022** at  [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
+The conference consists of two parts: a series of online talks taking place online **in November 2022** and an in-person full-day conference happening on **December 8th 2022** at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
 
 Participation is free and everyone is welcome to donate according to their possibilities. **All** contributions will be used to support Ukraine with medical and humanitarian aid.
+
+---
+
+# Our Speakers
+
+{% include speaker-gallery.html %}
 
 ---
 
@@ -25,6 +33,7 @@ Russian invasion of Ukraine has caused a grave humanitarian crisis destroying ci
 Some of our team members learned about this disastrous situation first hand, from their friends and families in Ukraine. As AI researches and world citizens, it became unthinkable for us to continue doing our work without making every effort to help people in Ukraine. Therefore, we are organising a fundraising charity conference asking the broad international AI community to give a hand to those in dire need. We do believe that our collective efforts can make a real difference and save lives.
 
 ---
+
 # Who we support
 
 Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Support in Canada:
@@ -33,6 +42,12 @@ Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Su
 <iframe style="width: 35vw; height: calc(35vw/1.77)" src="https://www.youtube-nocookie.com/embed/0VzF0L8HDMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Read more about [who we support here](./who_we_support).
+
+---
+
+# Donations
+
+{% include donation-bar-section.html %}
 
 ---
 
