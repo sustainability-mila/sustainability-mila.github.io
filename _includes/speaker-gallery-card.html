@@ -1,0 +1,18 @@
+<div class="column is-one-fifth-desktop is-half-tablet">
+  <div class="card">
+    <div class="card-image">
+      <figure class="image is-square">
+        <img src="assets/img/speakers/{{ speaker.photo }}" alt="{{ speaker.alttext }}">
+      </figure>
+      <div class="card-content is-overlay is-clipped">
+        <span class="tag is-primary">
+          {% assign datereadable = site.data.datesdict | where: "code", speaker.date | first %}
+          {{ datereadable.readable | split: "(" | first | rstrip }}
+        </span>
+      </div>
+    </div>
+    <footer class="card-footer card-footer-padding:0rem">
+      <a class="card-footer-item" href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>
+    </footer>
+  </div>
+</div>
