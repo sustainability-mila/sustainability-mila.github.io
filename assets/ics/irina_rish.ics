@@ -20,145 +20,107 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20221104T195751Z
-LAST-MODIFIED:20221104T200109Z
-DTSTAMP:20221104T200109Z
+LAST-MODIFIED:20221104T201110Z
+DTSTAMP:20221104T201110Z
 UID:ad444f1e-c01b-4f71-af84-1862aacaa47c
 SUMMARY:AI Helps Ukraine: Prof. Irina Rish's talk
 DTSTART;TZID=America/Toronto:20221107T110000
 DTEND;TZID=America/Toronto:20221107T120000
 TRANSP:OPAQUE
-X-MOZ-GENERATION:2
+X-MOZ-GENERATION:3
 LOCATION:https://www.crowdcast.io/c/ai-helps-ukraine/IFnZG
-DESCRIPTION;ALTREP="data:text/html,%3Cbody%3E%0A%3Cdiv%3E%3Cspan%20style%3D
- %22color%3A%20rgb(209%2C%20210%2C%20211)%3B%20font-family%3A%20Slack-Lato%2
- C%20%0ASlack-Fractions%2C%20appleLogo%2C%20sans-serif%3B%20font-size%3A%201
- 5px%3B%20font-style%3A%20%0Anormal%3B%20font-variant-ligatures%3A%20common-
- ligatures%3B%20font-variant-caps%3A%20%0Anormal%3B%20font-weight%3A%20400%3
- B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20%0Atext-align%3A%20
- left%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20white-spa
- ce%3A%20%0Anormal%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webki
- t-text-stroke-width%3A%200px%3B%20%0Abackground-color%3A%20rgb(34%2C%2037%2
- C%2041)%3B%20text-decoration-thickness%3A%20initial%3B%20%0Atext-decoration
- -style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20display%3A
- %0A%20inline%20!important%3B%20float%3A%20none%3B%22%3EThe%20rapidly%20deve
- loping%20field%20of%20%0Acomputational%20psychology%2Fpsychiatry%20aims%20t
- o%20bridge%20the%20gap%20between%20the%20%0A%E2%80%9Clegacy%E2%80%9D%20appr
- oaches%20still%20prevalent%20in%20mental%20health%20care%20that%20rely%20on
- %20%0Aprimarily%20subjective%20self-reports%20and%20subjective%20evaluation
- s%20by%20doctors%20-%0A%20in%20a%20stark%20contrast%20to%20other%20scientif
- ic%20and%20medical%20fields%20where%20%0Aobjective%20tests%20(e.g.%20blood%
- 20work%2C%20X-ray%2C%20MRI)%20are%20typically%20used%20to%20%0Aprovide%20an
- %20objective%20basis%20for%20diagnosis%20and%20prognosis.%20The%20promise%2
- 0of%20%0Acomputational%20psychiatry%20is%20to%20bring%20psychological%20dia
- gnosis%20to%20a%20more%20%0Asolid%20ground%20based%20on%20objective%20measu
- rements%2C%20potentially%20including%20%0Abrain%20imaging%2C%20wearable%20s
- ensor%20data%2C%20as%20well%20as%20statistical%20analysis%20of%20%0Aspeech%
- 20and%20text%20data%20-%20the%20are%20where%20modern%20AI%20techniques%20ca
- n%20prove%20%0Ahighly%20useful%2C%20I%20will%20briefly%20mention%20some%20p
- ast%20and%20ongoing%20work%20by%20our%20%0Agroup%20and%20collaborators%20in
- %20this%20directions%2C%20from%20developing%20more%20robust%20%0Astatistica
- l%20models%20across%20brain%20imaging%20datasets%2C%20aiming%20at%20learnin
- g%20%0Ainvariant%20features%20of%20a%20mental%20state%20or%20a%20person%20a
- cross%20varying%20setting%2C%0A%20to%20transferring%20knowledge%20extracted
- %20across%20different%20data%20modalities%2C%20%0Afollowing%20recent%20adva
- nces%20in%20large-scale%20pretrained%20deep%20neural%20network%20%0Amodels%
- 20whose%20transfer%20capabilities%20appear%20to%20go%20far%20beyond%20what%
- 20was%20%0Apreviously%20considered%20possible%2C.%3C%2Fspan%3E%3Cspan%20ari
- a-label%3D%22%22%20%0Aclass%3D%22c-mrkdwn__br%22%20data-stringify-type%3D%2
- 2paragraph-break%22%20%0Astyle%3D%22box-sizing%3A%20inherit%3B%20display%3A
- %20block%3B%20height%3A%208px%3B%20color%3A%20rgb(209%2C%0A%20210%2C%20211)
- %3B%20font-family%3A%20Slack-Lato%2C%20Slack-Fractions%2C%20appleLogo%2C%20
- %0Asans-serif%3B%20font-size%3A%2015px%3B%20font-style%3A%20normal%3B%20fon
- t-variant-ligatures%3A%0A%20common-ligatures%3B%20font-variant-caps%3A%20no
- rmal%3B%20font-weight%3A%20400%3B%20%0Aletter-spacing%3A%20normal%3B%20orph
- ans%3A%202%3B%20text-align%3A%20left%3B%20text-indent%3A%200px%3B%20%0Atext
- -transform%3A%20none%3B%20white-space%3A%20normal%3B%20widows%3A%202%3B%20w
- ord-spacing%3A%200px%3B%0A%20-webkit-text-stroke-width%3A%200px%3B%20backgr
- ound-color%3A%20rgb(34%2C%2037%2C%2041)%3B%20%0Atext-decoration-thickness%3
- A%20initial%3B%20text-decoration-style%3A%20initial%3B%20%0Atext-decoration
- -color%3A%20initial%3B%22%3E%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%20rg
- b(209%2C%20%0A210%2C%20211)%3B%20font-family%3A%20Slack-Lato%2C%20Slack-Fra
- ctions%2C%20appleLogo%2C%20%0Asans-serif%3B%20font-size%3A%2015px%3B%20font
- -style%3A%20normal%3B%20font-variant-ligatures%3A%0A%20common-ligatures%3B%
- 20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20%0Aletter-sp
- acing%3A%20normal%3B%20orphans%3A%202%3B%20text-align%3A%20left%3B%20text-i
- ndent%3A%200px%3B%20%0Atext-transform%3A%20none%3B%20white-space%3A%20norma
- l%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%0A%20-webkit-text-stroke
- -width%3A%200px%3B%20background-color%3A%20rgb(34%2C%2037%2C%2041)%3B%20%0A
- text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20init
- ial%3B%20%0Atext-decoration-color%3A%20initial%3B%20display%3A%20inline%20!
- important%3B%20float%3A%20%0Anone%3B%22%3EHowever%2C%20the%20road%20between
- %20AI%20and%20brain%20sciences%20is%20bidirectional%3A%0A%20among%20many%20
- ways%20in%20which%20neuroscience%2C%20psychiatry%20and%20psychology%20can%2
- 0%0Ainspire%20novel%20AI%20approaches%2C%20the%20ability%20of%20an%20AI%20s
- ystem%20to%20maintain%20%0A%E2%80%9Cmeaningful%E2%80%9D%20dialog%20with%20a
- %20person%2C%20and%20reaching%20certain%20objectives%20of%20%0Athe%20dialog
- %20(e.g.%2C%20application%20of%20AI%20in%20semi-automated%20therapy)%2C%20c
- an%20be%20%0Aconsiderably%20improved%20by%20importing%20certain%20practices
- %20and%20ideas%20from%20the%20%0Atherapeutic%20dialog%20into%20AI%20languag
- e%20models%20(I%20will%20briefly%20summarize%20our%0A%20prior%20work%20on%2
- 0depression%20therapy%20dialogues).%20Finally%2C%20given%20the%20rapid%20%0
- Aadvances%20in%20the%20capabilities%20of%20large%20scale%20models%20in%20th
- e%20past%201-2%20%0Ayears%2C%20sometimes%20called%20a%20%E2%80%9Cscaling%20
- revolution%E2%80%9D%20these%20days%2C%20also%20increase%0A%20the%20importan
- ce%20of%20developing%20AI%20systems%20that%20are%20aligned%20with%20human%2
- 0%0Avalues%20and%20can%20avoid%20harming%20humans%20while%20remaining%20use
- ful%20to%20them%20-%20the%0A%20blossoming%20field%20of%20AI%20Alignment%20(
- as%20a%20subfield%20of%20AI%20Safety%2C%20which%2C%20%0Abeyond%20alignment%
- 20problem%2C%20includes%20robustness%20and%20interpretability%20of%20AI%0A%
- 20systems).%20The%20vast%20amount%20of%20practical%20knowledge%20from%20the
- %20fields%20of%20%0Apsychology%20and%20neuroscience%2C%20and%20from%20psych
- iatric%20therapy%20practice%2C%20can%20%0Abe%20clearly%20very%20advancing%2
- 0the%20AI%20Alignment%20field.%3Cbr%3E%0A%20%20%20%20%3Cbr%3E%0A%20%20%3C%2
- Fspan%3E%3C%2Fdiv%3E%0A%3Cdiv%3E%3Cspan%20style%3D%22color%3A%20rgb(209%2C%
- 20210%2C%20211)%3B%20font-family%3A%20Slack-Lato%2C%20%0ASlack-Fractions%2C
- %20appleLogo%2C%20sans-serif%3B%20font-size%3A%2015px%3B%20font-style%3A%20
- %0Anormal%3B%20font-variant-ligatures%3A%20common-ligatures%3B%20font-varia
- nt-caps%3A%20%0Anormal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20n
- ormal%3B%20orphans%3A%202%3B%20%0Atext-align%3A%20left%3B%20text-indent%3A%
- 200px%3B%20text-transform%3A%20none%3B%20white-space%3A%20%0Anormal%3B%20wi
- dows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%20
- 0px%3B%20%0Abackground-color%3A%20rgb(34%2C%2037%2C%2041)%3B%20text-decorat
- ion-thickness%3A%20initial%3B%20%0Atext-decoration-style%3A%20initial%3B%20
- text-decoration-color%3A%20initial%3B%20display%3A%0A%20inline%20!important
- %3B%20float%3A%20none%3B%22%3E---(%20Video%20Call%20%0A)----%5Cnhttps%3A%2F
- %2Fwww.crowdcast.io%2Fc%2Fai-helps-ukraine%2FIFnZG%5Cn---%3D%3D%3D---%3C%2F
- span%3E%3C%2Fdiv%3E%0A%3C%2Fbody%3E":The rapidly developing field of comput
- ational psychology/psychiatry aims to\nbridge the gap between the “legacy
- ” approaches still prevalent in mental health\ncare that rely on primaril
- y subjective self-reports and subjective evaluations\nby doctors - in a sta
- rk contrast to other scientific and medical fields where\nobjective tests (
- e.g. blood work\, X-ray\, MRI) are typically used to provide an\nobjective 
- basis for diagnosis and prognosis. The promise of computational\npsychiatry
-  is to bring psychological diagnosis to a more solid ground based on\nobjec
- tive measurements\, potentially including brain imaging\, wearable sensor\n
- data\, as well as statistical analysis of speech and text data - the are wh
- ere\nmodern AI techniques can prove highly useful\, I will briefly mention 
- some past\nand ongoing work by our group and collaborators in this directio
- ns\, from\ndeveloping more robust statistical models across brain imaging d
- atasets\, aiming\nat learning invariant features of a mental state or a per
- son across varying\nsetting\, to transferring knowledge extracted across di
- fferent data modalities\,\nfollowing recent advances in large-scale pretrai
- ned deep neural network models\nwhose transfer capabilities appear to go fa
- r beyond what was previously\nconsidered possible\,.However\, the road betw
- een AI and brain sciences is\nbidirectional: among many ways in which neuro
- science\, psychiatry and psychology\ncan inspire novel AI approaches\, the 
- ability of an AI system to maintain\n“meaningful” dialog with a person\
- , and reaching certain objectives of the dialog\n(e.g.\, application of AI 
- in semi-automated therapy)\, can be considerably\nimproved by importing cer
- tain practices and ideas from the therapeutic dialog\ninto AI language mode
- ls (I will briefly summarize our prior work on depression\ntherapy dialogue
- s). Finally\, given the rapid advances in the capabilities of\nlarge scale 
- models in the past 1-2 years\, sometimes called a “scaling\nrevolution”
-  these days\, also increase the importance of developing AI systems\nthat a
- re aligned with human values and can avoid harming humans while remaining\n
- useful to them - the blossoming field of AI Alignment (as a subfield of AI\
- nSafety\, which\, beyond alignment problem\, includes robustness and\ninter
- pretability of AI systems). The vast amount of practical knowledge from the
- \nfields of psychology and neuroscience\, and from psychiatric therapy prac
- tice\,\ncan be clearly very advancing the AI Alignment field.\n\n---( Video
-  Call )----\\nhttps://www.crowdcast.io/c/ai-helps-ukraine/IFnZG\\n---===---
- \n
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3E%0A%3Cdiv%3E%3Cspan%3ETitle%3A
+ %20%3C%2Fspan%3E%3Cspan%3EComputational%20Psychology%20and%20%0APsychologic
+ al%20Computation%3A%20How%20AI%20and%20Brain%20Sciences%20can%20help%20each
+ %20ether%3C%2Fspan%3E%3C%2Fdiv%3E%0A%3Cdiv%3E%3Cspan%3E%3Cbr%3E%0AAbstract%
+ 3A%3Cbr%3E%0A%20%20%20%20%3Cbr%3E%0A%20%20%3C%2Fspan%3E%3C%2Fdiv%3E%0A%3Cdi
+ v%3E%3Cspan%3EThe%20rapidly%20developing%20field%20of%20%0Acomputational%20
+ psychology%2Fpsychiatry%20aims%20to%20bridge%20the%20gap%20between%20the%20
+ %0A%E2%80%9Clegacy%E2%80%9D%20approaches%20still%20prevalent%20in%20mental%
+ 20health%20care%20that%20rely%20on%20%0Aprimarily%20subjective%20self-repor
+ ts%20and%20subjective%20evaluations%20by%20doctors%20-%0A%20in%20a%20stark%
+ 20contrast%20to%20other%20scientific%20and%20medical%20fields%20where%20%0A
+ objective%20tests%20(e.g.%20blood%20work%2C%20X-ray%2C%20MRI)%20are%20typic
+ ally%20used%20to%20%0Aprovide%20an%20objective%20basis%20for%20diagnosis%20
+ and%20prognosis.%20The%20promise%20of%20%0Acomputational%20psychiatry%20is%
+ 20to%20bring%20psychological%20diagnosis%20to%20a%20more%20%0Asolid%20groun
+ d%20based%20on%20objective%20measurements%2C%20potentially%20including%20%0
+ Abrain%20imaging%2C%20wearable%20sensor%20data%2C%20as%20well%20as%20statis
+ tical%20analysis%20of%20%0Aspeech%20and%20text%20data%20-%20the%20are%20whe
+ re%20modern%20AI%20techniques%20can%20prove%20%0Ahighly%20useful%2C%20I%20w
+ ill%20briefly%20mention%20some%20past%20and%20ongoing%20work%20by%20our%20%
+ 0Agroup%20and%20collaborators%20in%20this%20directions%2C%20from%20developi
+ ng%20more%20robust%20%0Astatistical%20models%20across%20brain%20imaging%20d
+ atasets%2C%20aiming%20at%20learning%20%0Ainvariant%20features%20of%20a%20me
+ ntal%20state%20or%20a%20person%20across%20varying%20setting%2C%0A%20to%20tr
+ ansferring%20knowledge%20extracted%20across%20different%20data%20modalities
+ %2C%20%0Afollowing%20recent%20advances%20in%20large-scale%20pretrained%20de
+ ep%20neural%20network%20%0Amodels%20whose%20transfer%20capabilities%20appea
+ r%20to%20go%20far%20beyond%20what%20was%20%0Apreviously%20considered%20poss
+ ible%2C.%3C%2Fspan%3E%3Cspan%20aria-label%3D%22%22%20%0Aclass%3D%22c-mrkdwn
+ __br%22%20data-stringify-type%3D%22paragraph-break%22%3E%3C%2Fspan%3E%3Cspa
+ n%3EHowever%2C%0A%20the%20road%20between%20AI%20and%20brain%20sciences%20is
+ %20bidirectional%3A%0A%20among%20many%20ways%20in%20which%20neuroscience%2C
+ %20psychiatry%20and%20psychology%20can%20%0Ainspire%20novel%20AI%20approach
+ es%2C%20the%20ability%20of%20an%20AI%20system%20to%20maintain%20%0A%E2%80%9
+ Cmeaningful%E2%80%9D%20dialog%20with%20a%20person%2C%20and%20reaching%20cer
+ tain%20objectives%20of%20%0Athe%20dialog%20(e.g.%2C%20application%20of%20AI
+ %20in%20semi-automated%20therapy)%2C%20can%20be%20%0Aconsiderably%20improve
+ d%20by%20importing%20certain%20practices%20and%20ideas%20from%20the%20%0Ath
+ erapeutic%20dialog%20into%20AI%20language%20models%20(I%20will%20briefly%20
+ summarize%20our%0A%20prior%20work%20on%20depression%20therapy%20dialogues).
+ %20Finally%2C%20given%20the%20rapid%20%0Aadvances%20in%20the%20capabilities
+ %20of%20large%20scale%20models%20in%20the%20past%201-2%20%0Ayears%2C%20some
+ times%20called%20a%20%E2%80%9Cscaling%20revolution%E2%80%9D%20these%20days%
+ 2C%20also%20increase%0A%20the%20importance%20of%20developing%20AI%20systems
+ %20that%20are%20aligned%20with%20human%20%0Avalues%20and%20can%20avoid%20ha
+ rming%20humans%20while%20remaining%20useful%20to%20them%20-%20the%0A%20blos
+ soming%20field%20of%20AI%20Alignment%20(as%20a%20subfield%20of%20AI%20Safet
+ y%2C%20which%2C%20%0Abeyond%20alignment%20problem%2C%20includes%20robustnes
+ s%20and%20interpretability%20of%20AI%0A%20systems).%20The%20vast%20amount%2
+ 0of%20practical%20knowledge%20from%20the%20fields%20of%20%0Apsychology%20an
+ d%20neuroscience%2C%20and%20from%20psychiatric%20therapy%20practice%2C%20ca
+ n%20%0Abe%20clearly%20very%20advancing%20the%20AI%20Alignment%20field.%3Cbr
+ %3E%0A%20%20%20%20%3Cbr%3E%0A%20%20%3C%2Fspan%3E%3C%2Fdiv%3E%0A%0A%3Cdiv%3E
+ %3Cspan%3E---(%20Video%20Call%20%0A)----%5Cnhttps%3A%2F%2Fwww.crowdcast.io%
+ 2Fc%2Fai-helps-ukraine%2FIFnZG%5Cn---%3D%3D%3D---%3C%2Fspan%3E%3C%2Fdiv%3E%
+ 0A%3C%2Fbody%3E":Title: Computational Psychology and Psychological Computat
+ ion: How AI and Brain\nSciences can help each ether\n\nAbstract:\n\nThe rap
+ idly developing field of computational psychology/psychiatry aims to\nbridg
+ e the gap between the “legacy” approaches still prevalent in mental hea
+ lth\ncare that rely on primarily subjective self-reports and subjective eva
+ luations\nby doctors - in a stark contrast to other scientific and medical 
+ fields where\nobjective tests (e.g. blood work\, X-ray\, MRI) are typically
+  used to provide an\nobjective basis for diagnosis and prognosis. The promi
+ se of computational\npsychiatry is to bring psychological diagnosis to a mo
+ re solid ground based on\nobjective measurements\, potentially including br
+ ain imaging\, wearable sensor\ndata\, as well as statistical analysis of sp
+ eech and text data - the are where\nmodern AI techniques can prove highly u
+ seful\, I will briefly mention some past\nand ongoing work by our group and
+  collaborators in this directions\, from\ndeveloping more robust statistica
+ l models across brain imaging datasets\, aiming\nat learning invariant feat
+ ures of a mental state or a person across varying\nsetting\, to transferrin
+ g knowledge extracted across different data modalities\,\nfollowing recent 
+ advances in large-scale pretrained deep neural network models\nwhose transf
+ er capabilities appear to go far beyond what was previously\nconsidered pos
+ sible\,.However\, the road between AI and brain sciences is\nbidirectional:
+  among many ways in which neuroscience\, psychiatry and psychology\ncan ins
+ pire novel AI approaches\, the ability of an AI system to maintain\n“mean
+ ingful” dialog with a person\, and reaching certain objectives of the dia
+ log\n(e.g.\, application of AI in semi-automated therapy)\, can be consider
+ ably\nimproved by importing certain practices and ideas from the therapeuti
+ c dialog\ninto AI language models (I will briefly summarize our prior work 
+ on depression\ntherapy dialogues). Finally\, given the rapid advances in th
+ e capabilities of\nlarge scale models in the past 1-2 years\, sometimes cal
+ led a “scaling\nrevolution” these days\, also increase the importance o
+ f developing AI systems\nthat are aligned with human values and can avoid h
+ arming humans while remaining\nuseful to them - the blossoming field of AI 
+ Alignment (as a subfield of AI\nSafety\, which\, beyond alignment problem\,
+  includes robustness and\ninterpretability of AI systems). The vast amount 
+ of practical knowledge from the\nfields of psychology and neuroscience\, an
+ d from psychiatric therapy practice\,\ncan be clearly very advancing the AI
+  Alignment field.\n\n---( Video Call )----\\nhttps://www.crowdcast.io/c/ai-
+ helps-ukraine/IFnZG\\n---===---\n
 SEQUENCE:1
 BEGIN:VALARM
 ACTION:DISPLAY
