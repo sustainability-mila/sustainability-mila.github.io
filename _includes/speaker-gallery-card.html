@@ -2,8 +2,12 @@
   <div class="card">
     <header class="card-header">
       <span class="card-header-title">
-      {% assign datereadable = site.data.datesdict | where: "code", speaker.date | first %}
-      <a class="card-header-item" href="schedule">{{ datereadable.readable | split: "(" | first | rstrip }}</a>
+      {% if speaker.session != "tbd" %}
+        {% assign datereadable = site.data.datesdict | where: "code", speaker.date | first %}
+        <a class="card-header-item" href="schedule">{{ datereadable.readable | split: "(" | first | rstrip }}</a>
+      {% else %}
+        <a class="card-header-item" href="schedule">TBD</a>
+      {% endif %}
       </span>
     </header>
     <div class="card-image">
