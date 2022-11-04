@@ -75,6 +75,35 @@
       link: https://yoshuabengio.org/
   skip: True
 
+- fullname: Irina Rish
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: Prof.
+  position: Professor at Mila
+  bio: "Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member at MILA - Quebec AI Institute.
+
+  She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Before joining UdeM and MILA in 2019, Irina was a research scientist at the IBM T.J. Watson Research Center, where she worked on various projects at the intersection of neuroscience and AI. Dr Rish received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute.
+
+  Dr. Rish received multiple IBM awards, holds 64 patents, co-organized a great number of workshops, and served on several editorial boards and conference chairs.
+
+  Over the past decades, her research has spanned multiple areas of AI, ranging from automated reasoning, neural data analysis to neuroscience-inspired AI. Currently, she is working on research areas such as continual learning, out-of-distribution generalization and robustness of neural networks, which she considers as essential for achieving the holy grail of the AI field, Artificial General Intelligence.
+  "
+  photo: irina_rish.jpg
+  alttext: Prof. Irina Rish
+  session: virtual
+  date: 20221107
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://irina-rish.com/
+    - name: Twitter
+      link: https://twitter.com/irinarish
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
+  skip: False
+
 - fullname: Hannah Kerner
   affiliations:
   - School of Computing and Augmented Intelligence, University of Maryland
