@@ -1,5 +1,5 @@
 <div class="columns is-multiline">
-{% assign speakers = site.data.speakers %}
+{% assign speakers = site.data.speakers | sort: "date" %}
 {% for speaker in speakers %}
   {% if speaker.skip %}{% continue %}{% endif %}
       {% include speaker-gallery-card.html %}
