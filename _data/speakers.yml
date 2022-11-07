@@ -91,7 +91,7 @@
   "
   photo: irina_rish.jpg
   alttext: Prof. Irina Rish
-  title: "Computational Psychology and Psychological Computation: How AI and Brain Sciences Can Help Each Other"
+  title: "Computational psychology and psychological computation: How AI and Brain Sciences can help each other"
   abstract: "The rapidly developing field of computational psychology/psychiatry aims to bridge the gap between the “legacy” approaches still prevalent in mental health care that rely on primarily subjective self-reports and subjective evaluations by doctors - in a stark contrast to other scientific and medical fields where objective tests (e.g. blood work, X-ray, MRI) are typically used to provide an objective basis for diagnosis and prognosis. The promise of computational psychiatry is to bring psychological diagnosis to a more solid ground based on objective measurements, potentially including brain imaging, wearable sensor data, as well as statistical analysis of speech and text data - the are where modern AI techniques can prove highly useful, I will briefly mention some past and ongoing work by our group and collaborators in this directions, from developing more robust statistical models across brain imaging datasets, aiming at learning invariant features of a mental state or a person across varying setting, to transferring knowledge extracted across different data modalities, following recent advances in large-scale pretrained deep neural network models whose transfer capabilities appear to go far beyond what was previously considered possible. However, the road between AI and brain sciences is bidirectional: among many ways in which neuroscience, psychiatry and psychology can inspire novel AI approaches, the ability of an AI system to maintain “meaningful” dialog with a person, and reaching certain objectives of the dialog (e.g., application of AI in semi-automated therapy), can be considerably improved by importing certain practices and ideas from the therapeutic dialog into AI language models (I will briefly summarize our prior work on depression therapy dialogues). Finally, given the rapid advances in the capabilities of large scale models in the past 1-2 years, sometimes called a “scaling revolution” these days, also increase the importance of developing AI systems that are aligned with human values and can avoid harming humans while remaining useful to them - the blossoming field of AI Alignment (as a subfield of AI Safety, which, beyond alignment problem, includes robustness and interpretability of AI systems). The vast amount of practical knowledge from the fields of psychology and neuroscience, and from psychiatric therapy practice, can be clearly very advancing the AI Alignment field."
   session: virtual
   date: 20221107
@@ -103,7 +103,9 @@
       link: https://twitter.com/irinarish
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/IFnZG
+    - name: YouTube
+      link: https://youtu.be/Ufkg8dvpo7U
   skip: False
 
 - fullname: Hannah Kerner
@@ -325,7 +327,7 @@
   She partners with nongovernmental organizations and government agencies to deploy her methods in the wild worldwide and works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education."
   photo: sara_beery.jpg
   alttext: Dr. Sara Beery
-  title: "Mapping Urban Trees Across North America with the Auto Arborist Dataset"
+  title: "Mapping urban trees across North America with the Auto Arborist Dataset"
   abstract: "Generalization to novel domains is a fundamental challenge for computer vision. Near-perfect accuracy on benchmarks is common, but these models do not work as expected when deployed outside of the training distribution. To build computer vision systems that solve real-world problems at global scale, we need benchmarks that fully capture real-world complexity, including geographic domain shift, long-tailed distributions, and data noise. We propose urban forest monitoring as an ideal testbed for studying and improving upon these computer vision challenges, while working towards filling a crucial environmental and societal need. Urban forests provide significant benefits to urban societies. However, planning and maintaining these forests is expensive. One particularly costly aspect of urban forest management is monitoring the existing trees in a city: e.g., tracking tree locations, species, and health. We introduce a new large-scale dataset that joins public tree censuses from 23 cities with a large collection of street level and aerial imagery, containing over 2.5M trees and 300 genera. This benchmark enables the exploration of automated urban forest monitoring across modalities and with respect to geographic distribution shifts, vital for such a system to be deployed at-scale."
   session: virtual
   date: 20221205
