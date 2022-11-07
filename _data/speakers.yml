@@ -104,6 +104,8 @@
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine/IFnZG
+    - name: YouTube
+      link: https://youtu.be/Ufkg8dvpo7U
   skip: False
 
 - fullname: Hannah Kerner
