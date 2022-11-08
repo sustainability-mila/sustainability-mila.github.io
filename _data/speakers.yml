@@ -135,7 +135,7 @@
       link: https://twitter.com/hannah_kerner
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/lQBtM
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Inbal Becker-Reshef
@@ -166,7 +166,7 @@
       link: https://twitter.com/beckerinbal
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/lQBtM
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Max Welling
@@ -197,7 +197,7 @@
       link: https://twitter.com/wellingmax
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/tDUNm
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Regina Barzilay
@@ -226,7 +226,7 @@
       link: https://twitter.com/BarzilayRegina
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/xywEP
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: David Rolnick
@@ -257,7 +257,7 @@
       link: https://twitter.com/david_rolnick
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/DxxTT
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Michael Bronstein
@@ -372,7 +372,7 @@
       link: http://goldenberglab.ca/
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/AbxdC
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Olga Russakovsky
