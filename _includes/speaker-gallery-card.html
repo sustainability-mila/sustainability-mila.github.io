@@ -1,0 +1,24 @@
+<div class="column is-one-fifth-desktop is-half-tablet">
+  <div class="card">
+    <header class="card-header">
+      <span class="card-header-title">
+      {% if speaker.session != "tbd" %}
+        {% assign datereadable = site.data.datesdict | where: "code", speaker.date | first %}
+        <a class="card-header-item" href="schedule">{{ datereadable.readable | split: "(" | first | rstrip }}</a>
+      {% else %}
+        <a class="card-header-item" href="schedule">TBD</a>
+      {% endif %}
+      </span>
+    </header>
+    <div class="card-image">
+      <figure class="image is-square">
+        <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">
+          <img src="assets/img/speakers/{{ speaker.photo }}" alt="{{ speaker.alttext }}">
+        </a>
+      </figure>
+    </div>
+    <footer class="card-footer">
+      <a class="card-footer-item" href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>
+    </footer>
+  </div>
+</div>

@@ -75,6 +75,39 @@
       link: https://yoshuabengio.org/
   skip: True
 
+- fullname: Irina Rish
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: Prof.
+  position: Professor at Mila
+  bio: "Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member at MILA - Quebec AI Institute.
+
+  She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Before joining UdeM and MILA in 2019, Irina was a research scientist at the IBM T.J. Watson Research Center, where she worked on various projects at the intersection of neuroscience and AI. Dr. Rish received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute.
+
+  Dr. Rish received multiple IBM awards, holds 64 patents, co-organized a great number of workshops, and served on several editorial boards and conference chairs.
+
+  Over the past decades, her research has spanned multiple areas of AI, ranging from automated reasoning, neural data analysis to neuroscience-inspired AI. Currently, she is working on research areas such as continual learning, out-of-distribution generalization and robustness of neural networks, which she considers as essential for achieving the holy grail of the AI field, Artificial General Intelligence.
+  "
+  photo: irina_rish.jpg
+  alttext: Prof. Irina Rish
+  title: "Computational psychology and psychological computation: How AI and Brain Sciences can help each other"
+  abstract: "The rapidly developing field of computational psychology/psychiatry aims to bridge the gap between the “legacy” approaches still prevalent in mental health care that rely on primarily subjective self-reports and subjective evaluations by doctors - in a stark contrast to other scientific and medical fields where objective tests (e.g. blood work, X-ray, MRI) are typically used to provide an objective basis for diagnosis and prognosis. The promise of computational psychiatry is to bring psychological diagnosis to a more solid ground based on objective measurements, potentially including brain imaging, wearable sensor data, as well as statistical analysis of speech and text data - the are where modern AI techniques can prove highly useful, I will briefly mention some past and ongoing work by our group and collaborators in this directions, from developing more robust statistical models across brain imaging datasets, aiming at learning invariant features of a mental state or a person across varying setting, to transferring knowledge extracted across different data modalities, following recent advances in large-scale pretrained deep neural network models whose transfer capabilities appear to go far beyond what was previously considered possible. However, the road between AI and brain sciences is bidirectional: among many ways in which neuroscience, psychiatry and psychology can inspire novel AI approaches, the ability of an AI system to maintain “meaningful” dialog with a person, and reaching certain objectives of the dialog (e.g., application of AI in semi-automated therapy), can be considerably improved by importing certain practices and ideas from the therapeutic dialog into AI language models (I will briefly summarize our prior work on depression therapy dialogues). Finally, given the rapid advances in the capabilities of large scale models in the past 1-2 years, sometimes called a “scaling revolution” these days, also increase the importance of developing AI systems that are aligned with human values and can avoid harming humans while remaining useful to them - the blossoming field of AI Alignment (as a subfield of AI Safety, which, beyond alignment problem, includes robustness and interpretability of AI systems). The vast amount of practical knowledge from the fields of psychology and neuroscience, and from psychiatric therapy practice, can be clearly very advancing the AI Alignment field."
+  session: virtual
+  date: 20221107
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://irina-rish.com/
+    - name: Twitter
+      link: https://twitter.com/irinarish
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/IFnZG
+    - name: YouTube
+      link: https://youtu.be/Ufkg8dvpo7U
+  skip: False
+
 - fullname: Hannah Kerner
   affiliations:
   - School of Computing and Augmented Intelligence, University of Maryland
@@ -90,6 +123,8 @@
   Hannah Kerner also communicates challenges for developing ML applications for real-world problems and is passionate about advancing opportunities for people who have traditionally been underrepresented in computer science."
   photo: hannah_kerner.jpg
   alttext: Prof. Hannah Kerner
+  title: "AI and Earth observations for global agricultural monitoring and food security"
+  abstract: "Earth-observing satellites are collecting terabytes of observations of the entire planet every day with unprecedented clarity. These globally-available datasets offer immense opportunities for providing time-sensitive information needed by decision-makers about issues important to society, such as agricultural production and food security. Analyzing these petabyte-scale Earth observation datasets requires AI and machine learning methods designed to meet the unique challenges and opportunities of Earth observation data. Harvest is NASA’s applied sciences program on agriculture and food security, committed to advancing the use of satellite Earth observations to benefit food security and agriculture in the US and worldwide. In this talk, Harvest Director Inbal Becker-Reshef and Harvest ML/AI Lead Hannah Kerner will talk about how Harvest is using AI and Earth observations to rapidly respond to critical events impacting global agriculture and food security, including the Russo-Ukrainian war."
   session: virtual
   date: 20221111
   time: "16:00"
@@ -119,6 +154,8 @@
 
   photo: inbal_becker-reshef.jpg
   alttext: Prof. Inbal Becker-Reshef
+  title: "AI and Earth observations for global agricultural monitoring and food security"
+  abstract: "Earth-observing satellites are collecting terabytes of observations of the entire planet every day with unprecedented clarity. These globally-available datasets offer immense opportunities for providing time-sensitive information needed by decision-makers about issues important to society, such as agricultural production and food security. Analyzing these petabyte-scale Earth observation datasets requires AI and machine learning methods designed to meet the unique challenges and opportunities of Earth observation data. Harvest is NASA’s applied sciences program on agriculture and food security, committed to advancing the use of satellite Earth observations to benefit food security and agriculture in the US and worldwide. In this talk, Harvest Director Inbal Becker-Reshef and Harvest ML/AI Lead Hannah Kerner will talk about how Harvest is using AI and Earth observations to rapidly respond to critical events impacting global agriculture and food security, including the Russo-Ukrainian war."
   session: virtual
   date: 20221111
   time: "16:00"
@@ -294,7 +331,7 @@
   She partners with nongovernmental organizations and government agencies to deploy her methods in the wild worldwide and works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education."
   photo: sara_beery.jpg
   alttext: Dr. Sara Beery
-  title: "Mapping Urban Trees Across North America with the Auto Arborist Dataset"
+  title: "Mapping urban trees across North America with the Auto Arborist Dataset"
   abstract: "Generalization to novel domains is a fundamental challenge for computer vision. Near-perfect accuracy on benchmarks is common, but these models do not work as expected when deployed outside of the training distribution. To build computer vision systems that solve real-world problems at global scale, we need benchmarks that fully capture real-world complexity, including geographic domain shift, long-tailed distributions, and data noise. We propose urban forest monitoring as an ideal testbed for studying and improving upon these computer vision challenges, while working towards filling a crucial environmental and societal need. Urban forests provide significant benefits to urban societies. However, planning and maintaining these forests is expensive. One particularly costly aspect of urban forest management is monitoring the existing trees in a city: e.g., tracking tree locations, species, and health. We introduce a new large-scale dataset that joins public tree censuses from 23 cities with a large collection of street level and aerial imagery, containing over 2.5M trees and 300 genera. This benchmark enables the exploration of automated urban forest monitoring across modalities and with respect to geographic distribution shifts, vital for such a system to be deployed at-scale."
   session: virtual
   date: 20221205
