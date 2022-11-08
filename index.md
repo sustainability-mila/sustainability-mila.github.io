@@ -14,7 +14,7 @@ toc: false
 <img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
 AI Helps Ukraine is a charity conference for raising funds to support Ukrainians facing the severe humanitarian crisis. We bring together [the leading experts of AI](./speakers) to present recent advances in the field and attract attention of the AI community to those who are in urgent need.
 
-The conference consists of two parts: a series of online talks taking place online **in November 2022** and an in-person full-day conference happening on **December 8th 2022** at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
+The conference consists of two parts: a series of online talks taking place online **in November - December 2022** and an in-person full-day conference happening on **December 8th 2022** at [Mila Quebec AI Institute](https://mila.quebec/) in Montreal.
 
 Participation is free and everyone is welcome to donate according to their possibilities. **All** contributions will be used to support Ukraine with medical and humanitarian aid.
 
