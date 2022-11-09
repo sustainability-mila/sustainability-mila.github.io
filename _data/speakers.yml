@@ -342,6 +342,9 @@
       link: https://beerys.github.io/
     - name: Twitter
       link: https://twitter.com/sarameghanbeery
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/AbxdC
   skip: False
 
 - fullname: Anna Goldenberg
