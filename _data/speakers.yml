@@ -69,7 +69,7 @@
   photo: yoshua_bengio.jpg
   alttext: Prof. Yoshua Bengio
   session: inperson
-  time: "11:30"
+  time: "11:00"
   tags:
     - name: Website
       link: https://yoshuabengio.org/
@@ -135,7 +135,7 @@
       link: https://twitter.com/hannah_kerner
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/lQBtM
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Inbal Becker-Reshef
@@ -166,7 +166,7 @@
       link: https://twitter.com/beckerinbal
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/lQBtM
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Max Welling
@@ -197,7 +197,7 @@
       link: https://twitter.com/wellingmax
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/tDUNm
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Regina Barzilay
@@ -216,6 +216,7 @@
   "
   photo: regina_barzilay.jpg
   alttext: Prof. Regina Barzilay
+  title: "Expanding the reach of molecular models in the drug discovery space"
   session: virtual
   date: 20221121
   time: "16:00"
@@ -226,7 +227,7 @@
       link: https://twitter.com/BarzilayRegina
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/xywEP
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: David Rolnick
@@ -257,7 +258,7 @@
       link: https://twitter.com/david_rolnick
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/DxxTT
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
 - fullname: Michael Bronstein
@@ -369,13 +370,31 @@
   abstract: "There is growing support and excitement around AI integration into clinical practice. And yet, enabling AI in healthcare broadly is replete with many obstacles including fundamentally unresolved machine learning issues. In this talk I will cover several of our contributions to time series modeling including explainability, representation learning and generative modeling that we have worked on to date. I will also discuss some of the broader computer science contributions we had to make in order to get us closer to deployment. Finally, if time permits, I will touch on an important question of feedback loop, i.e. what happens when an ML solution is deployed and is starting to affect the labels that we are using to retrain and improve our models."
   session: inperson
   date: 20221208
-  time: "09:15"
+  time: "13:30"
   tags:
     - name: Website
       link: http://goldenberglab.ca/
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine
   skip: False
 
-
+- fullname: Olga Russakovsky
+  affiliations:
+  - Department of Computer Science, Princeton University
+  - Princeton Visual AI Lab
+  nametitle: Prof.
+  position: Assistant Professor at Princeton University
+  bio: "Dr. Olga Russakovsky is an Assistant Professor in the Computer Science Department at Princeton University. Her research is in computer vision, closely integrated with the fields of machine learning, human-computer interaction and fairness, accountability and transparency. She has been awarded the PAMI Young Researcher Award, the NSF CAREER award, the AnitaB.org's Emerging Leader Abie Award in honor of Denice Denton, the CRA-WP Anita Borg Early Career Award, the MIT Technology Review's 35-under-35 Innovator award, the PAMI Everingham Prize and the Foreign Policy Magazine's 100 Leading Global Thinkers award. In addition to her research, she co-founded and continues to serve on the Board of Directors of the AI4ALL nonprofit dedicated to increasing diversity and inclusion in Artificial Intelligence (AI). She completed her PhD at Stanford University and her postdoctoral fellowship at Carnegie Mellon University."
+  photo: olga_russakovsky.jpg
+  alttext: Prof. Olga Russakovsky
+  session: inperson
+  date: 20221208
+  time: "09:45"
+  tags:
+    - name: Website
+      link: https://www.cs.princeton.edu/~olgarus/
+  skip: False
 
 
 # for what is the person known
