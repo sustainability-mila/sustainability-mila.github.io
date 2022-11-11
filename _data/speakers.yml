@@ -306,9 +306,9 @@
   "
   photo: alexei_efros.jpg
   alttext: Prof. Alexei Efros
-  session: tbd
-  date: 20221121
-  time: "15:00"
+  session: virtual
+  date: 20221117
+  time: "19:00"
   tags:
     - name: Website
       link: https://people.eecs.berkeley.edu/~efros/
