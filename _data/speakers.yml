@@ -312,6 +312,8 @@
   "
   photo: alexei_efros.jpg
   alttext: Prof. Alexei Efros
+  title: "Visual self-supervision in the Post-Dataset Era"
+  abstract: "Starting in the early 2000s, datasets have revolutionized computer vision, arguably turning it from an art form into a science.   But now, 20 years later, is our infatuation with fixed visual datasets and their training/test splits starting to cause harm?  In this talk, I will describe some of our efforts to go past the fixed dataset paradigm and toward a more natural continuous online learning regime, where the distinction between training and test data is more blurred.  I will present some of our latest work on test-time training, as well as a comically simple approach to test-time visual prompting / visual analogies."
   session: virtual
   date: 20221117
   time: "19:00"
