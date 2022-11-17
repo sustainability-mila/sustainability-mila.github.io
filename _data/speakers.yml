@@ -323,6 +323,8 @@
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine/VkKnc
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=O-QtrLn9Mf8
   skip: False
 
 - fullname: Sara Beery
