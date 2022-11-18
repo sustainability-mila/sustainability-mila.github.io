@@ -326,7 +326,6 @@
     - name: YouTube
       link: https://www.youtube.com/watch?v=O-QtrLn9Mf8
   skip: False
-  skip: False
 
 - fullname: Sara Beery
   affiliations:
