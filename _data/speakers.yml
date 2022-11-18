@@ -283,9 +283,9 @@
   "
   photo: michael_bronstein.jpg
   alttext: Prof. Michael Bronstein
-  session: tbd
-  date: 20221121
-  time: "15:00"
+  session: virtual
+  date: 20221212
+  time: "16:00"
   tags:
     - name: Website
       link: https://www.cs.ox.ac.uk/people/michael.bronstein/
@@ -293,7 +293,7 @@
       link: https://twitter.com/mmbronstein
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/bziaE
   skip: False
 
 - fullname: Alexei Efros
