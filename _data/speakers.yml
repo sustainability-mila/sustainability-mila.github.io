@@ -234,6 +234,8 @@
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine/xywEP
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=M_mZj7a5txI
   skip: False
 
 - fullname: David Rolnick
