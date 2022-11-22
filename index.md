@@ -77,7 +77,7 @@ We are a group of early-career AI researchers and friends taking personally the 
 
 ## Our partners
 
-{% include partner-logo.html %}
+{% include sponsor-logo.html %}
 
 ---
 
