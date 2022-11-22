@@ -1,0 +1,7 @@
+<div class="level">
+  {% assign sponsors = site.data.sponsors | sample: site.data.team.size %} {% for sponsor in sponsors %}
+  <a class="level-item has-text-centered" href="{{ sponsor.link }}">
+    <img src="assets/img/sponsors/{{ sponsor.photo }}" alt="" style="height: 128px" />
+  </a>
+  {% endfor %}
+</div>
