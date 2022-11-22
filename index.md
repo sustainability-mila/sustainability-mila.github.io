@@ -75,7 +75,7 @@ We are looking for the following donations: money, medicines and equipment. We e
 
 We are a group of early-career AI researchers and friends taking personally the situation in Ukraine. We know first hand the challenges which Ukrainians have been facing due to the war and we want to support them as much as we can. You are very welcome to read [more about us](./team) and [get in touch!](#contact)
 
-## Our partners
+## Our sponsors
 
 {% include sponsor-logo.html %}
 
