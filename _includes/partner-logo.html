@@ -1,5 +1,5 @@
 <div class="level">
-  {% assign partners = site.data.partners | sample: site.data.team.size %} {% for partner in partners %}
+  {% assign partners = site.data.partners %} {% for partner in partners %}
   <a class="level-item has-text-centered" href="{{ partner.link }}">
     <img src="assets/img/partners/{{ partner.photo }}" alt="" style="height: 128px" />
   </a>
