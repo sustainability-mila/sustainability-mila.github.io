@@ -3,6 +3,7 @@ talk:
   speaker: David Rolnick
 
 donations:
+  show_bar: False
   spreadsheetURL: https://docs.google.com/spreadsheets/d/e/2PACX-1vTXKpZ8iB5Nz6mHl5iYUAA68DU1D-gCnwuDREnVULI9JrOnh1CF8U1RF6zDbVfrkw/pub?gid=1443797343&single=true&output=csv
   target: 50000
   targetText: "50,000"
