@@ -45,7 +45,7 @@ Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Su
 
 Read more about [who we support here](./who_we_support).
 
-{% if site.data.settings.show_bar %}
+{% if site.data.settings.showBar %}
 ---
 
 # Donations
