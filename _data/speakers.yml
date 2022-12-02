@@ -69,7 +69,8 @@
   photo: yoshua_bengio.jpg
   alttext: Prof. Yoshua Bengio
   session: inperson
-  time: "11:00"
+  time: 
+    - "11:00"
   tags:
     - name: Website
       link: https://yoshuabengio.org/
@@ -384,7 +385,9 @@
   abstract: "There is growing support and excitement around AI integration into clinical practice. And yet, enabling AI in healthcare broadly is replete with many obstacles including fundamentally unresolved machine learning issues. In this talk I will cover several of our contributions to time series modeling including explainability, representation learning and generative modeling that we have worked on to date. I will also discuss some of the broader computer science contributions we had to make in order to get us closer to deployment. Finally, if time permits, I will touch on an important question of feedback loop, i.e. what happens when an ML solution is deployed and is starting to affect the labels that we are using to retrain and improve our models."
   session: inperson
   date: 20221208
-  time: "13:30"
+  time: 
+    - "13:30"
+    - "11:00"
   tags:
     - name: Website
       link: http://goldenberglab.ca/
@@ -406,7 +409,9 @@
   abstract: "Computer vision is at an interesting cruxpoint: the systems are now both accurate enough that they're increasingly being deployed in high-stakes settings, but also have enough errors that folks are losing faith in them (with good reason). This talk will reflect on some of the recent work from the Princeton Visual AI lab on building more trustworthy (and more trusted) computer vision. I'll talk about improving the benchmarks, mitigating the social bias of the systems, and creating better model explanations that are more understandable for end users."
   session: inperson
   date: 20221208
-  time: "09:45"
+  time: 
+    - "09:45"
+    - "11:00"
   tags:
     - name: Website
       link: https://www.cs.princeton.edu/~olgarus/
