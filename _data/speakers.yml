@@ -413,6 +413,24 @@
   skip: False
 
 
+- fullname: Ava Amini
+  affiliations:
+    - Microsoft Research
+  nametitle: Dr.
+  position: Senior Researcher at Microsoft Research
+  bio: "Ava Amini is a Senior Researcher at Microsoft Research, New England. Her research focuses on developing new computational technologies for precision medicine, where she works at the interface of machine learning and biophysics. She completed her PhD in Biophysics at Harvard University, where she was supported by the NSF Graduate Research Fellowship, and her SB in Computer Science and Biology at MIT. Ava is passionate about machine learning outreach and leadership: she is a co-founder of MomentumAI, which provides all-expenses-paid programs for high schoolers to learn AI, and was a lead organizer and instructor for MIT Introduction to Deep Learning."
+  photo: ava_amini.jpg
+  alttext: Dr. Ava Amini
+  title: AI to optimize biology
+  session: inperson
+  date: 20221208
+  time: "15:00"
+  tags:
+    - name: Website
+      link: https://avaamini.com/
+  skip: False
+
+
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
