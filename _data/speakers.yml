@@ -428,7 +428,9 @@
   title: AI to optimize biology
   session: inperson
   date: 20221208
-  time: "15:00"
+  time: 
+    - "15:00"
+    - "11:00"
   tags:
     - name: Website
       link: https://avaamini.com/
