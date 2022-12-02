@@ -14,8 +14,7 @@
       {% assign speakers = allspeakers | where: "time", event.time_start %}
       {% capture speakernames %}
         {% for speaker in speakers | sample: speakers.size %}
-          <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>
-          {% if forloop.last == false %}, {% endif %}
+          <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>{% if forloop.last == false %}, {% endif %}
         {% endfor %}
       {% endcapture %}
       {% capture eventtitle %}
