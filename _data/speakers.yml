@@ -360,6 +360,8 @@
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine/AbxdC
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=Z88q8JiS8Cc
   skip: False
 
 - fullname: Anna Goldenberg
