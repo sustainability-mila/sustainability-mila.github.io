@@ -1,6 +1,6 @@
 talk:
-  isLive: False
-  speaker: David Rolnick
+  isLive: True
+  speaker: Sara Beery
 
 donations:
   showBar: False
