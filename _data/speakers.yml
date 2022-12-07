@@ -428,6 +428,7 @@
   photo: ava_amini.jpg
   alttext: Dr. Ava Amini
   title: AI to optimize biology
+  abstract: "The potential of artificial intelligence (AI) in biology is immense, yet its success is contingent on interfacing effectively with wet-lab experimentation. In this talk, I will focus on two settings, biomolecular and experimental design, in which we’ve developed new AI algorithms to optimize biology and inform the experimental process. I will first share recent work in developing a diffusion-based generative model that designs protein structures by mirroring the native protein folding process.  Moving from molecules to experiments, I will present a method — evidential deep learning — for uncertainty quantification in neural networks and demonstrate its potential to guide key steps in experimental lifecycles, opening the door for sustained feedback between computation and experimentation in the biological sciences."
   session: inperson
   date: 20221208
   time: 
