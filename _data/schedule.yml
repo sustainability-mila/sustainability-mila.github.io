@@ -33,12 +33,13 @@
 - name: Invited talk
   time_start: "16:00"
   time_end: "16:15"
-- name: Contributed talks by AI for Good startups
+- name: Invited talks
   time_start: "16:15"
   time_end: "17:00"
+  title: "Talks by founders of AI for Good startups"
 - name: Closing remarks
   time_start: "17:00"
   time_end: "17:15"
-- name: Networking & AI for Good startup pitches
+- name: Networking
   time_start: "17:15"
   time_end: "19:00"
