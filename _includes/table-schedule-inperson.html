@@ -17,16 +17,6 @@
           <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>{% if forloop.last == false %}, {% endif %}
         {% endfor %}
       {% endcapture %}
-      {% capture eventtitle %}
-        {% if event.name == "Keynote talk" %}
-          {% if speaker.abstract %}
-          <details>
-            <summary>{{ speaker.title }} {{ slides }}</summary>
-            {{ speaker.abstract }}
-          </details>
-          {% endif %}
-        {% endif %}
-      {% endcapture %}
         <tr>
           <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso=20221208T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
           <td>{{ event.name }}</td>
@@ -35,8 +25,14 @@
             {% if event.title %}
               {{ event.title }}
             {% else %}
-              {% assign speaker = speakers | first %}
-              {{ speaker.title }}
+              {% if speakers.first.abstract %}
+              <details>
+                <summary>{{ speakers.first.title }}</summary>
+                {{ speakers.first.abstract }}
+              </details>
+              {% else %}
+                {{ speakers.first.title }}
+              {% endif %}
             {% endif %}
           {% endcapture %}
           <td>{{ eventtitle }}</td>
