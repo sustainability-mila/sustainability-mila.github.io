@@ -20,16 +20,17 @@
 - name: Keynote talk II
   time_start: "13:30"
   time_end: "14:30"
-- name: Lightening talks by Ukrainian students
+- name: Invited talks
   time_start: "14:30"
   time_end: "14:45"
+  title: "Lightening talks by Ukrainian students"
 - name: Coffee Break
   time_start: "14:45"
   time_end: "15:00"
 - name: Keynote talk III
   time_start: "15:00"
   time_end: "16:00"
-- name: Coffee Break
+- name: Invited talk
   time_start: "16:00"
   time_end: "16:15"
 - name: Contributed talks by AI for Good startups
