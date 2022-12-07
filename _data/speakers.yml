@@ -439,6 +439,31 @@
       link: https://avaamini.com/
   skip: False
 
+- fullname: Oleksandr Romanko
+  affiliations:
+    - SS&C Technologies Canada
+    - University of Toronto
+    - Ukrainian Catholic University
+    - Kyiv School of Economics
+    - American University Kyiv
+  nametitle: Prof.
+  position: Lead Research Scientist
+  bio: "Dr. Romanko is a Lead Research Scientist in Financial Risk Quantitative Research at SS&C Technologies Canada, he is also an Adjunct Professor at University of Toronto, Ukrainian Catholic University, Kyiv School of Economics and American University Kyiv. Dr. Romanko received Ph.D. in Computer Science from McMaster University. Previously, he worked as a Senior Research Analyst and Manager of Quantitative Research at Watson Financial Services division of IBM. Dr. Romanko received several industrial awards including IBM Outstanding Technical Achievement Award in 2014 and Eminence and Excellence IBM Award to Quantitative Research Group of IBM Risk Analytics in 2012. He also received a number of academic awards from INFORMS, Canadian Operational Research Society and Mitacs.
+
+  Dr. Romanko is an author of more than 20 articles and book chapters in financial risk management, machine learning, analytics and operations research. His research focuses on optimization algorithms, financial portfolio optimization, machine learning and artificial intelligence applied to finance and risk management. To popularize data science and analytics as a new career option in Ukraine, starting from 2013 Dr. Romanko co-organized and taught more than ten one- and two-day courses in Data Science, Business Analytics and Artificial Intelligence with more than 5000 attendees. Dr. Romanko is a co-founder of Canada’s Mitacs Research Internship Program for Ukraine, that allowed more than 300 Ukrainian students to participate in research internship projects at Canadian universities. Dr. Romanko served as a Senior Policy Advisor to Anna Novosad, Minister of Education and Science of Ukraine in 2019-2020. He is also a member of the board of directors of Ukrainian Canadian Congress and Shevchenko Scientific Society of Canada."
+  photo: oleksandr_romanko.jpg
+  alttext: Prof. Oleksandr Romanko
+  title: AI for Education
+  session: inperson
+  date: 20221208
+  time: 
+    - "16:00"
+    - "11:00"
+  tags:
+    - name: Website
+      link: http://www.romanko.ca/
+  skip: False
+
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
