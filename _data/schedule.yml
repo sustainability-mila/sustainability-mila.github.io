@@ -13,27 +13,33 @@
 - name: Panel discussion
   time_start: "11:00"
   time_end: "12:00"
+  title: "AI for social good"
 - name: Lunch Break
   time_start: "12:00"
   time_end: "13:30"
 - name: Keynote talk II
   time_start: "13:30"
   time_end: "14:30"
-- name: Coffee Break
+- name: Invited talks
   time_start: "14:30"
+  time_end: "14:45"
+  title: "Lightening talks by Ukrainian students"
+- name: Coffee Break
+  time_start: "14:45"
   time_end: "15:00"
 - name: Keynote talk III
   time_start: "15:00"
   time_end: "16:00"
-- name: Contributed talks by Ukrainian students
+- name: Invited talk
   time_start: "16:00"
-  time_end: "16:30"
-- name: Contributed talks by AI for Good startups
-  time_start: "16:30"
+  time_end: "16:15"
+- name: Invited talks
+  time_start: "16:15"
   time_end: "17:00"
+  title: "Talks by founders of AI for Good startups"
 - name: Closing remarks
   time_start: "17:00"
   time_end: "17:15"
-- name: Networking & AI for Good startup pitches
+- name: Networking
   time_start: "17:15"
   time_end: "19:00"
