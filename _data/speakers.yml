@@ -274,7 +274,6 @@
 - fullname: Michael Bronstein
   affiliations:
   - Department of Computer Science, University of Oxford
-  - Graph Learning Research, Twitter
   nametitle: Prof.
   position: DeepMind Professor of Artificial Intelligence
   bio: "Michael Bronstein is known for coining the term “geometric deep learning” and his research on graph neural networks and 3d shape analysis.
@@ -287,6 +286,7 @@
   "
   photo: michael_bronstein.jpg
   alttext: Prof. Michael Bronstein
+  title: "Geometric Deep Learning: from Euclid to Drug Design"
   session: virtual
   date: 20221212
   time: "16:00"
