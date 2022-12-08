@@ -12,6 +12,8 @@ AI Helps Ukraine consists of a full-day conference at Mila on December 8th 2022 
 
 The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
 
+The conference will take place at the Agora of [Mila](https://mila.quebec/), which is located at [6650, Rue Saint-Urbain, Montreal, QC, H2S 3H1](https://www.openstreetmap.org/way/222246924).
+
 {% include table-schedule-inperson.html %}
 
 ## Virtual series
