@@ -7,9 +7,13 @@ toc: false
 
 Click on the bottom left button below to stay tuned about the online talks and more, and if you want to join us in person on 8th Dec at Mila, Montreal, click on the right button to get your ticket on Eventbrite!
 
-{% include registration-button.html %}
+{% include in-person-button.html %}
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
+
+{% include registration-button.html %}
+
+
 
 # What
 
