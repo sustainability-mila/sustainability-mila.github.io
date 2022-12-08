@@ -464,6 +464,20 @@
       link: http://www.romanko.ca/
   skip: False
 
+- fullname: Mariia Rizhko
+  session: inperson
+  date: 20221208
+  time: 
+    - "14:30"
+  skip: True
+
+- fullname: Bohdan Naida
+  session: inperson
+  date: 20221208
+  time: 
+    - "14:30"
+  skip: True
+
 # for what is the person known
 # which positions does he have
 # which prizes did he earn
