@@ -3,7 +3,7 @@ title: Speakers
 layout: page-floatbutton
 permalink: /speakers
 ---
-{% assign speakers = site.data.speakers %}
+{% assign speakers = site.data.speakers | sort: "date" %}
 {% for speaker in speakers %}
   {% if speaker.skip %}{% continue %}{% endif %}
     {% assign side = forloop.index0 | modulo: 2 %}
