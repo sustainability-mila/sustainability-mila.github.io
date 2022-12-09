@@ -303,31 +303,27 @@
 
 - fullname: Volodymyr Kuleshov
   affiliations:
-  - Department of Computer Science, University of Oxford
+  - Department of Computer Science, Cornell Tech
   nametitle: Prof.
-  position: DeepMind Professor of Artificial Intelligence
-  bio: "Michael Bronstein is known for coining the term “geometric deep learning” and his research on graph neural networks and 3d shape analysis.
+  position: Assistant Professor
+  bio: "Volodymyr Kuleshov is an Assistant Professor at the Jacobs Technion-Cornell Institute at Cornell Tech and in the Computer Science Department at Cornell University. He obtained his bachelor's in Mathematics and Computer Science from McGill University, and his Ph.D. in Computer Science from Stanford University, where he was the recipient of the Arthur Samuel Best Thesis Award.
 
-  He is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard.
-
-  Bronstein is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards.
-
-  In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision, and Fabula AI.
-  "
-  photo: michael_bronstein.jpg
-  alttext: Prof. Michael Bronstein
-  title: "Geometric Deep Learning: from Euclid to Drug Design"
+  Kuleshov's research interests are in the field of machine learning and its applications in scientific discovery, health, and sustainability. His work has been featured in Nature Biotechnology, Nature Medicine, Nature Communications and Scientific American, and was awarded an NSERC Post-Graduate Fellowship and a Stanford Graduate Fellowship. He is the co-founder and Chief Technologist at Afresh, a startup focused on automating the food supply chain using AI in order to reduce food waste."
+  photo: volodymyr_kuleshov.jpg
+  alttext: Prof. Volodymyr Kuleshov
+  title: "Uncertainty-Aware Machine Learning for a Sustainable Food Supply Chain"
+  abstract: "In the United States, 30–50% of all the food produced is wasted, representing a massive environmental problem—food waste contributes to up to 25% of all greenhouse gas emissions. One of the main drivers of food waste is supply chain inefficiency. This talk describes (1) novel machine learning methods for reasoning under uncertainty and (2) their application to a real-world supply chain control system that significantly improves efficiency and reduces waste. Specifically, I will present improved methods for calibrated uncertainty estimation and planning algorithms that benefit from accurate model uncertainties. This research extends widely used uncertainty quantification methods and demonstrates that most existing planning algorithms can be improved via these methods. I will also describe how these algorithms are deployed in a real-world supply chain control system. This system is currently deployed across hundreds of supermarkets in the US (handling ~10% of US produce volume) and has led to waste reductions of up to 50%."
   session: virtual
-  date: 20221212
-  time: "16:00"
+  date: 20221215
+  time: "17:30"
   tags:
     - name: Website
-      link: https://www.cs.ox.ac.uk/people/michael.bronstein/
+      link: https://www.cs.cornell.edu/~kuleshov/
     - name: Twitter
-      link: https://twitter.com/mmbronstein
+      link: https://twitter.com/volokuleshov
   streams:
     - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/bziaE
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/cQYHu
   skip: False
 
 - fullname: Alexei Efros
