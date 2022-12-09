@@ -17,9 +17,11 @@ On our PayPal donation page you can donate from any country, with **debit card**
 
 We would like to raise {{ site.data.settings.donations.targetText}} CAD. Currently, we are working on a list of specific equipment and drugs requested by our Ukrainian partners (National Cancer Institute & local hospitals). We will publish the list here, as soon as it is finished. If you are part of pharma company that would like to donate drugs or equipment, please contact us (`{{ site.email }}`).
 
+{% if site.data.settings.showBar %}
 ### Collected donations
 
 {% include donation-bar-section.html %}
+{% endif %}
 
 ### Thank you!
 

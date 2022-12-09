@@ -1,21 +1,23 @@
 ---
 title: Schedule
-subtitle: November & December 2022
+subtitle: October - December 2022
 layout: page-floatbutton
 show_sidebar: false
 # hero_height: is-small
 permalink: /schedule
 ---
-Stay tuned for the upcoming details of the program! We are working on a outstanding and diverse program on AI for Good research!
+AI Helps Ukraine consists of a full-day conference at Mila on December 8th 2022 and a series of online talks between October and December 2022.
+
+## December 8th, Thursday (in person at Mila, Montreal)
+
+The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
+
+The conference will take place at the Agora of [Mila](https://mila.quebec/), which is located at [6650, Rue Saint-Urbain, Montreal, QC, H2S 3H1](https://www.openstreetmap.org/way/222246924).
+
+{% include table-schedule-inperson.html %}
 
 ## Virtual series
 
 The times are given in **Universal Coordinated Time (UTC)**. Click on the times to check your local time.
 
 {% include table-schedule-virtual.html %}
-
-## December 8th, Thursday (in person at Mila, Montreal)
-
-The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
-
-{% include table-schedule-inperson.html %}

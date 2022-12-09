@@ -24,3 +24,7 @@ end
 
 # Theme: Bulma Clean Theme
 gem "bulma-clean-theme"
+
+# Without this, running the website locally (bundle exec jekyll serve)
+# may fail with versions of ruby >= 3.0.0
+gem "webrick", "~> 1.7"

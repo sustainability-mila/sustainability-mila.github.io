@@ -5,9 +5,13 @@ subtitle: A charity conference on AI to raise funds for medical and humanitarian
 toc: false
 ---
 
-{% include registration-button.html %}
+Click on the bottom left button below to stay tuned about the online talks and more, and if you want to join us in person on 8th Dec at Mila, Montreal, click on the right button to get your ticket on Eventbrite!
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
+
+{% include registration-button.html %}
+
+
 
 # What
 
@@ -43,11 +47,13 @@ Interview with the National Cancer Institute of Ukraine & the Ukraine Medical Su
 
 Read more about [who we support here](./who_we_support).
 
+{% if site.data.settings.showBar %}
 ---
 
 # Donations
 
 {% include donation-bar-section.html %}
+{% endif %}
 
 ---
 
@@ -75,9 +81,9 @@ We are looking for the following donations: money, medicines and equipment. We e
 
 We are a group of early-career AI researchers and friends taking personally the situation in Ukraine. We know first hand the challenges which Ukrainians have been facing due to the war and we want to support them as much as we can. You are very welcome to read [more about us](./team) and [get in touch!](#contact)
 
-## Our partners
+## Our sponsors
 
-{% include partner-logo.html %}
+{% include sponsor-logo.html %}
 
 ---
 
