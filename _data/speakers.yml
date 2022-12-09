@@ -301,6 +301,35 @@
       link: https://www.crowdcast.io/c/ai-helps-ukraine/bziaE
   skip: False
 
+- fullname: Volodymyr Kuleshov
+  affiliations:
+  - Department of Computer Science, University of Oxford
+  nametitle: Prof.
+  position: DeepMind Professor of Artificial Intelligence
+  bio: "Michael Bronstein is known for coining the term “geometric deep learning” and his research on graph neural networks and 3d shape analysis.
+
+  He is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard.
+
+  Bronstein is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards.
+
+  In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision, and Fabula AI.
+  "
+  photo: michael_bronstein.jpg
+  alttext: Prof. Michael Bronstein
+  title: "Geometric Deep Learning: from Euclid to Drug Design"
+  session: virtual
+  date: 20221212
+  time: "16:00"
+  tags:
+    - name: Website
+      link: https://www.cs.ox.ac.uk/people/michael.bronstein/
+    - name: Twitter
+      link: https://twitter.com/mmbronstein
+  streams:
+    - name: Crowdcast
+      link: https://www.crowdcast.io/c/ai-helps-ukraine/bziaE
+  skip: False
+
 - fullname: Alexei Efros
   affiliations:
   - EECS Department, University of California, Berkeley
