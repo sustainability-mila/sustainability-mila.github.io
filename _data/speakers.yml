@@ -299,6 +299,8 @@
   streams:
     - name: Crowdcast
       link: https://www.crowdcast.io/c/ai-helps-ukraine/bziaE
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=cXYvEQnUkEI
   skip: False
 
 - fullname: Volodymyr Kuleshov
