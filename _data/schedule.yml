@@ -13,7 +13,7 @@
 - name: Panel discussion
   time_start: "11:00"
   time_end: "12:00"
-  title: "AI for social good"
+  title: "Title"
 - name: Lunch Break
   time_start: "12:00"
   time_end: "13:30"
@@ -23,7 +23,7 @@
 - name: Invited talks
   time_start: "14:30"
   time_end: "14:45"
-  title: "Lightening talks by Ukrainian students"
+  title: "Title"
 - name: Coffee Break
   time_start: "14:45"
   time_end: "15:00"
@@ -36,7 +36,7 @@
 - name: Invited talks
   time_start: "16:15"
   time_end: "17:00"
-  title: "Talks by founders of AI for Good startups"
+  title: "Title"
 - name: Closing remarks
   time_start: "17:00"
   time_end: "17:15"

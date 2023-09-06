@@ -1,16 +1,15 @@
 ---
 title: Schedule
-subtitle: October - December 2022
+subtitle: November 8-10 2023
 layout: page-floatbutton
 show_sidebar: false
 # hero_height: is-small
 permalink: /schedule
 ---
-AI Helps Ukraine consists of a full-day conference at Mila on December 8th 2022 and a series of online talks between October and December 2022.
 
-## December 8th, Thursday (in person at Mila, Montreal)
+## Day 0 - November 8th 2023
 
-{% include button-light.html message="The recording of the in person event is available on Crowdcast!" link="https://www.crowdcast.io/c/ai-helps-ukraine-8dec" %}
+{% include button-light.html message="The event will also be streamed on YouTube!" link="/" %}
 
 The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
 
@@ -18,8 +17,10 @@ The conference will take place at the Agora of [Mila](https://mila.quebec/), whi
 
 {% include table-schedule-inperson.html %}
 
-## Virtual series
+## Day 1 - November 9th 2023
 
-The times are given in **Universal Coordinated Time (UTC)**. Click on the times to check your local time.
+{% include table-schedule-virtual.html %}
+
+## Day 2 - November 10th 2023
 
 {% include table-schedule-virtual.html %}

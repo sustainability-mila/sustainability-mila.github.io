@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI Helps Ukraine
-tagline: AI Helps Ukraine Charity Conference
-email: ai.helps.ukraine@mila.quebec
-twitter_username: alhelpsukraine
-github_username: aihelpsukraine
+title: Mila GFN Workshop
+tagline: A 3-day free workshop on GFlowNets at Mila in Montreal
+email: gflownet.workshop@mila.quebec
+twitter_username: Mila_Quebec
+github_username: GFNOrg
 twitter:
-  - username: alhelpsukraine
-description: A student-run charity conference on AI for good to raise funds for medical equipment to help Ukraine
-author: AI Helps Ukraine
+  - username: Mila_Quebec
+description: A 3-day free workshop on GFlowNets at Mila in Montreal
+author: Mila
 baseurl: ""
 url: ""
-logo: assets/img/logo/logo_150dpi.png
-favicon: assets/img/logo/icon_square_transparent.png
+logo: assets/img/logo/logo_transparent.png
+favicon: assets/img/logo/logo_transparent.png
 
 # Reading Files
 include:
@@ -48,7 +48,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: ./assets/img/bg-sunflowers-005bbbc4-crop.png
+      hero_image: ./assets/img/hero/molecules-toy-unsplash-5040x2366-mauve-90dpi.png
 
 # defaults:
 #   - scope:
