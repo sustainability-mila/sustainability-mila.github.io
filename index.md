@@ -5,7 +5,7 @@ subtitle: A 3-day free workshop on GFlowNets at Mila in Montreal
 toc: false
 ---
 
-# What
+# Introduction
 
 <img src="{{ site.logo }}" style="width:400px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
 
@@ -25,12 +25,6 @@ Throughout the workshop, we will discuss the backgrounds, theoretical foundation
   - Online perticipation: You can also join the workshop virtually at [TBD].
 
 {% include registration-button.html %}
-
----
-
-# Speakers
-
-{% include speaker-gallery.html %}
 
 ---
 

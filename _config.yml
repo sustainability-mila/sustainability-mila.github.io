@@ -24,8 +24,8 @@ description: A 3-day free workshop on GFlowNets at Mila in Montreal
 author: Mila
 baseurl: ""
 url: ""
-logo: assets/img/gfnworkshop_logo.png
-favicon: assets/img/gfnworkshop_logo.png
+logo: assets/img/logo/gfnworkshop_logo.png
+favicon: assets/img/logo/logo_transparent.png
 
 # Reading Files
 include:
@@ -48,7 +48,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: 
+      hero_image: ./assets/img/hero/molecules-toy-unsplash-5040x2366-mauve-90dpi.png
 
 # defaults:
 #   - scope:

@@ -4,7 +4,9 @@
   link: /speakers.html
 - name: Schedule
   link: /schedule.html
-- name: Team
-  link: /team.html
+- name: Organizers
+  link: /organizers.html
+- name: Resources
+  link: /resources.html
 - name: Code of Conduct
   link: /coc.html

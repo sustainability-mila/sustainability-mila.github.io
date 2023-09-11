@@ -1,9 +1,8 @@
 ---
 layout: page-floatbutton
-title: Team
-permalink: /team
+title: Organizers
+permalink: /organizers
 ---
-The Mila GFN Workshop is organized by volunteer students and friends from [Mila](https://mila.quebec) interested in GFlowNets and its applications to science and technology.
 
 <Body>
 <div>
