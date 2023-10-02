@@ -9,7 +9,7 @@ permalink: /schedule
 
 {% include button-light.html message="The event will also be streamed on YouTube!" link="/" %}
 
-The times are given in the local **Montreal time (Eastern Standard Time, UTC-4)**.
+The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
 
 The conference will take place at the Agora of [Mila](https://mila.quebec/), which is located at [6650, Rue Saint-Urbain, Montreal, QC, H2S 3H1](https://www.openstreetmap.org/way/222246924).
 
