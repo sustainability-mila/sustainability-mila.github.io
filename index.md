@@ -25,6 +25,9 @@ The workshop will delve into several topics, such as pre-requisites, theoretical
 # Attendance
 
 - When: The Mila GFlowNet Workshop consists of a three-full-day conference at Mila from November 8-10, 2023.
+  - Day 1: (optional) refresher on statistics, probabilistic and generative modeling
+  - Day 2: An introduction to the theory of GFlowNets
+  - Day 3: An overview of existing applications
 
 - Where:
 
