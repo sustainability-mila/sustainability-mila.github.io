@@ -39,7 +39,7 @@ permalink: /resources
 
 - [GFlowNet Foundations](https://arxiv.org/abs/2111.09266). Yoshua Bengio, Tristan Deleu, Edward J. Hu, Salem Lahlou, Mo Tiwari, Emmanuel Bengio. JMLR 2023.
 
-- [GFlowNets for AI-Driven Scientific Discovery](https://arxiv.org/pdf/2302.00615.pdf). Moksh Jain, Tristan Deleu, Jason Hartford, Cheng-Hao Liu, Alex Hernandez-Garcia, Yoshua Bengio. Digital Discovery, 2023.
+- [GFlowNets for AI-Driven Scientific Discovery](https://arxiv.org/pdf/2302.00615.pdf). Moksh Jain, Tristan Deleu, Jason Hartford, Cheng-Hao Liu, Alex Hernandez-Garcia, Yoshua Bengio. Digital Discovery 2023.
 
 - [Better Training of GFlowNets with Local Credit and Incomplete Trajectories](https://arxiv.org/abs/2302.01687). Ling Pan, Nikolay Malkin, Dinghuai Zhang, Yoshua Bengio. ICML 2023.
 
@@ -126,8 +126,8 @@ permalink: /resources
 
 - [torchgfn](https://github.com/saleml/torchgfn). Salem Lahlou, Joseph D. Viviano, Victor Schmidt, Yoshua Bengio.
 
-- [gflownet](https://github.com/recursionpharma/gflownet) Emmanuel Bengio.  
+- [recursionpharma/gflownet](https://github.com/recursionpharma/gflownet). Emmanuel Bengio.  
 
-- [gflownet](https://github.com/alexhernandezgarcia/gflownet) 
+- [alexhernandezgarcia/gflownet](https://github.com/alexhernandezgarcia/gflownet). Alex Hernandez-Garcia.
 
 - TBD
