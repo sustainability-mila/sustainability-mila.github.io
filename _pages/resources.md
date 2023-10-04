@@ -39,6 +39,8 @@ permalink: /resources
 
 - [GFlowNet Foundations](https://arxiv.org/abs/2111.09266). Yoshua Bengio, Tristan Deleu, Edward J. Hu, Salem Lahlou, Mo Tiwari, Emmanuel Bengio. JMLR 2023.
 
+- [GFlowNets for AI-Driven Scientific Discovery](https://arxiv.org/pdf/2302.00615.pdf). Moksh Jain, Tristan Deleu, Jason Hartford, Cheng-Hao Liu, Alex Hernandez-Garcia, Yoshua Bengio. Digital Discovery, 2023.
+
 - [Better Training of GFlowNets with Local Credit and Incomplete Trajectories](https://arxiv.org/abs/2302.01687). Ling Pan, Nikolay Malkin, Dinghuai Zhang, Yoshua Bengio. ICML 2023.
 
 - [Learning GFlowNets from Partial Episodes for Improved Convergence and Stability](https://arxiv.org/abs/2209.12782). Kanika Madan, Jarrid Rector-Brooks, Maksym Korablyov, Emmanuel Bengio, Moksh Jain, Andrei Nica, Tom Bosc, Yoshua Bengio, Nikolay Malkin. ICML 2023.
@@ -125,5 +127,9 @@ permalink: /resources
 - [GFlowNet Tutorial](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR). Emmanuel Bengio.
 
 - [torchgfn](https://github.com/saleml/torchgfn). Salem Lahlou, Joseph D. Viviano, Victor Schmidt, Yoshua Bengio.
+
+- [gflownet](https://github.com/recursionpharma/gflownet) Emmanuel Bengio.  
+
+- [gflownet](https://github.com/alexhernandezgarcia/gflownet) 
 
 - TBD
