@@ -5,17 +5,26 @@ subtitle: A 3-day free workshop on GFlowNets at Mila in Montreal
 toc: false
 ---
 
-# Introduction
+<div id="home-intro-container">
 
-<img src="{{ site.logo }}" style="width:400px;vertical-align:middle;padding-right:30px;padding-bottom:30px;float:left">
+<h1>Introduction</h1>
+
+
+<img src="{{ site.logo }}" id="home-logo">
 
 Welcome to the Mila GFlowNet Workshop!
-
+<br/>
+<br/>
 During this workshop, we will explore the fascinating world of  generative flow networks (GFlowNets). GFlowNets are trained to take sequential actions to sample from a distribution specified by an energy function or reward function, allowing us to generate complex objects through a sequence of steps. GFlowNets have been applied to a variety of domains, including molecule and protein design, causal discovery, and combinational optimization, as well as to augment the capabilities of generative models for vision and language.
-
+<br/>
+<br/>
 GFlowNets are a powerful framework related to concepts from Monte-Carlo Markov chain methods, reinforcement learning, generative models, and amortized variational methods.
+<br/>
+<br/>
+Throughout the workshop, we will discuss the <strong>backgrounds, theoretical foundations, techniques, and applications of GFlowNets</strong>, providing you with a comprehensive understanding of this exciting new field. We hope you enjoy the workshop and find inspiration in the potential of Generative Flow Networks.
 
-Throughout the workshop, we will discuss the **backgrounds, theoretical foundations, techniques, and applications of GFlowNets**, providing you with a comprehensive understanding of this exciting new field. We hope you enjoy the workshop and find inspiration in the potential of Generative Flow Networks.
+
+</div>
 
 ---
 # Goal
