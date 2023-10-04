@@ -37,8 +37,6 @@ permalink: /resources
 
 - [DAG Matters! GFlowNets Enhanced Explainer For Graph Neural Networks](https://arxiv.org/pdf/2303.02448.pdf). Wenqian Li, Yinchuan Li, Zhigang Li, Jianye Hao, Yan Pang. ICLR 2023.
 
-- [CFlowNets: Continuous Control with Generative Flow Networks](https://arxiv.org/pdf/2303.02430.pdf). Yinchuan Li, Shuang Luo, Haozhi Wang, Jianye Hao. ICLR 2023.
-
 - [GFlowNet Foundations](https://arxiv.org/abs/2111.09266). Yoshua Bengio, Tristan Deleu, Edward J. Hu, Salem Lahlou, Mo Tiwari, Emmanuel Bengio. JMLR 2023.
 
 - [Better Training of GFlowNets with Local Credit and Incomplete Trajectories](https://arxiv.org/abs/2302.01687). Ling Pan, Nikolay Malkin, Dinghuai Zhang, Yoshua Bengio. ICML 2023.
