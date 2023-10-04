@@ -107,8 +107,6 @@ permalink: /resources
 
 - [Bayesian learning of Causal Structure and Mechanisms with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763). Mizu Nishikawa-Toomey, Tristan Deleu, Jithendaraa Subramanian, Yoshua Bengio, Laurent Charlin. 2022. 
 
-- [GFlowNets for AI-Driven Scientific Discovery](https://arxiv.org/pdf/2302.00615.pdf). Moksh Jain, Tristan Deleu, Jason Hartford, Cheng-Hao Liu, Alex Hernandez-Garcia, Yoshua Bengio. 2023.
-
 - [Distributional GFlowNets with Quantile Flows](https://arxiv.org/pdf/2302.05793.pdf). Dinghuai Zhang, Ling Pan, Ricky T.Q. Chen, Aaron Courville, Yoshua Bengio. 2023.
 
 - [Multi-Fidelity Active Learning with GFlowNets](https://arxiv.org/abs/2306.11715). Alex Hernandez-Garcia, Nikita Saxena, Moksh Jain, Cheng-Hao Liu, Yoshua Bengio. 2023.
