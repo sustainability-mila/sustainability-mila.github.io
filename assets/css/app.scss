@@ -6,3 +6,17 @@ $primary: $mauve;
 $yellow: #ffda03;
 // Import Main CSS file from theme
 @import "main";
+
+#home-logo{
+    float: left;
+    max-width: 400px;
+    min-width: 150px;
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+    vertical-align: middle;
+    width: 20vw;
+}
+#home-intro-container{
+    overflow: auto;
+}
