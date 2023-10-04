@@ -1,7 +1,7 @@
 <table class="table is-hoverable">
   <thead>
     <tr>
-      <th>Time (EDT)</th>
+      <th>Time (EST)</th>
       <th>Session</th>
       <th>Speaker</th>
       <th>Title</th>
@@ -22,7 +22,7 @@
         {% endif %}
       {% endcapture %}
         <tr>
-          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Helps+Ukraine&iso=20221208T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
+          <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Mila+GFN+Workshop&iso=20231110T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
           <td>{{ event.name }}</td>
           <td>{{ speakernames }}</td>
           {% capture eventtitle %}

@@ -4,11 +4,11 @@
 - name: Talk
   time_start: "09:00"
   time_end: "09:30"
-  title: "GFNs for Science"
+  title: "GFlowNets for Science"
 - name: Q & A
   time_start: "09:30"
   time_end: "09:45"
-  title: "GFNs for Science"
+  title: "GFlowNets for Science"
 - name: Talk
   time_start: "09:45"
   time_end: "10:15"
@@ -20,11 +20,11 @@
 - name: Talk
   time_start: "10:30"
   time_end: "11:00"
-  title: "Evaluating GFNs, Open Questions"
+  title: "Evaluating GFlowNets, Open Questions"
 - name: Q & A
   time_start: "11:00"
   time_end: "11:15"
-  title: "Evaluating GFNs, Open Questions"
+  title: "Evaluating GFlowNets, Open Questions"
 - name: Break
   time_start: "11:15"
   time_end: "11:30"
@@ -48,7 +48,7 @@
 - name: Talk
   time_start: "14:00"
   time_end: "14:15"
-  title: "GRNs"
+  title: "Gene Regulatory Networks"
   speaker: Jason Hartford
 - name: Talk
   time_start: "14:15"
@@ -63,12 +63,12 @@
 - name: Talk
   time_start: "14:45"
   time_end: "15:00"
-  title: "Continuous GFNs"
+  title: "Continuous GFlowNets"
   speaker: Salem Lahlou
 - name: Talk
   time_start: "15:00"
   time_end: "15:15"
-  title: "EB/Latent Variable GFNs"
+  title: "GFlowNets for Latent Variable Models"
   speaker: Edward Hu
 - name: Q & A
   time_start: "15:15"
@@ -79,4 +79,4 @@
 - name: Talk
   time_start: "16:00"
   time_end: ""
-  title: "GFN Clinic"
+  title: "GFlowNet Clinic"
