@@ -5,44 +5,52 @@
   time_start: "09:00"
   time_end: "09:30"
   speaker: Yoshua Bengio
-- name: "Introduction to GFlowNets: Part 1"
+- name: Talk
+  title: "Introduction to GFlowNets: Part 1"
   time_start: "09:30"
   time_end: "10:15"
   speaker: Emmanuel Bengio
-- name: "Introduction to GFlowNets: Part 2"
+- name: Talk
+  title: "Introduction to GFlowNets: Part 2"
   time_start: "10:15"
   time_end: "10:45"
   speaker: Nikolay Malkin
 - name: "Break"
   time_start: "10:45"
   time_end: "11:00"
-- name: "Training GFlowNets"
+- name: Talk
+  title: "Training GFlowNets"
   time_start: "11:00"
   time_end: "11:30"
   speaker: Jarrid Rector-Brooks
-- name: "Hands-on: Training GFlowNets"
+- name: Talk
+  title: "Hands-on: Training GFlowNets"
   time_start: "11:30"
   time_end: "12:30"
 - name: Lunch
   time_start: "12:30"
   time_end: "13:30"
-- name: Parameterization and Conditioning
+- name: Talk
+  title: Parameterization and Conditioning
   time_start: "13:30"
   time_end: "14:10"
-- name: Maximum Likelihood Training
+- name: Talk
+  title: Maximum Likelihood Training
   time_start: "14:10"
   time_end: "14:30"
   speaker: Léna Néhale Ezzine
 - name: Break
   time_start: "14:30"
   time_end: "15:00"
-- name: Continuous GFlowNets
+- name: Talk
+  title: Continuous GFlowNets
   time_start: "15:00"
   time_end: "15:45"
   speaker: Salem Lahlou
 - name: Break
   time_start: "15:45"
   time_end: "16:00"
-- name: "Hands-on: Continuous GFlowNets"
+- name: Talk
+  title: "Hands-on: Continuous GFlowNets"
   time_start: "16:00"
   time_end: "17:00"
