@@ -32,28 +32,29 @@
   time_end: "13:30"
 - name: Talk
   title: Parameterization and Conditioning
-  time_start: "13:30"
-  time_end: "14:10"
+  time_start: "14:00"
+  time_end: "14:40"
+  speaker: Moksh Jain
 - name: Talk
   title: Maximum Likelihood Training
-  time_start: "14:10"
-  time_end: "14:30"
+  time_start: "14:40"
+  time_end: "15:00"
   speaker: Léna Néhale Ezzine
 - name: Break
-  time_start: "14:30"
-  time_end: "15:00"
+  time_start: "15:00"
+  time_end: "15:30"
 - name: Talk
   title: Continuous GFlowNets
-  time_start: "15:00"
-  time_end: "15:45"
+  time_start: "15:30"
+  time_end: "16:15"
   speaker: Salem Lahlou
 - name: Break
-  time_start: "15:45"
-  time_end: "16:00"
+  time_start: "16:15"
+  time_end: "16:30"
 - name: Talk
   title: "Hands-on: Continuous GFlowNets"
-  time_start: "16:00"
-  time_end: "17:00"
+  time_start: "16:30"
+  time_end: "17:30"
 - name: Social
-  time_start: "18:00"
-  time_end: "20:00"
+  time_start: "18:30"
+  time_end: "20:30"
