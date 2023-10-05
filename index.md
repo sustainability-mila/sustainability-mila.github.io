@@ -1,7 +1,7 @@
 ---
 layout: page-floatbutton
 title: Mila GFlowNet Workshop
-subtitle: A 3-day free workshop on GFlowNets at Mila in Montreal
+subtitle: A 3-day free workshop on GFlowNets at Mila in Montreal<br>November 8-10th 2023
 toc: false
 ---
 
