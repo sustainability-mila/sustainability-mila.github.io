@@ -7,7 +7,7 @@ show_sidebar: false
 permalink: /schedule
 ---
 
-{% include button-light.html message="The event will also be streamed on YouTube!" link="#" %}
+<!-- {% include button-light.html message="The event will also be streamed on YouTube!" link="#" %} -->
 
 The times are given in the local **Montreal time (Eastern Standard Time, UTC-5)**.
 
