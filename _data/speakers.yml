@@ -13,7 +13,7 @@
   Concerned about the social impact of AI and the objective that AI benefits all, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence."
   photo: yoshua_bengio.jpg
   alttext: Prof. Yoshua Bengio
-  title: ""
+  title: "Introductory Remarks"
   abstract: ""
   session: day2
   date: 20231109
@@ -26,4 +26,115 @@
       link: https://www.crowdcast.io/c/ai-helps-ukraine/stAnz
     - name: YouTube
       link: https://www.youtube.com/watch?v=uOzCKnTDvqY
+  skip: False
+
+- fullname: Emmanuel Bengio
+  affiliations:
+  - Recursion
+  nametitle: Dr.
+  position: Senior Machine Learning Scientist
+  bio: ""
+  photo: eb.jpg
+  alttext: Dr. Emmanuel Bengio
+  title: "Introduction to GFlowNets: Part 1"
+  abstract: ""
+  session: day2
+  date: 20231109
+  time: "09:30"
+  tags:
+    - name: Website
+      link: https://folinoid.com/
+  skip: False
+
+
+- fullname: Nikolay Malkin
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: Dr.
+  position: Postdoctoral Fellow
+  bio: ""
+  photo: nm.jpg
+  alttext: Dr. Nikolay Malkin
+  title: "Introduction to GFlowNets: Part 2"
+  abstract: ""
+  session: day2
+  date: 20231109
+  time: "10:15"
+  tags:
+    - name: Website
+      link: https://malkin1729.github.io/
+  skip: False
+
+- fullname: Jarrid Rector-Brooks
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: 
+  position: PhD Student
+  bio: ""
+  photo: jarrid_rb.jpg
+  alttext: Jarrid Rector-Brooks
+  title: "Training GFlowNets"
+  abstract: ""
+  session: day2
+  date: 20231109
+  time: "11:00"
+  tags:
+    - name: Website
+      link: https://jarridrb.github.io/
+  skip: False
+
+- fullname: Moksh Jain
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: 
+  position: PhD Student
+  bio: ""
+  photo: mj.jpg
+  alttext: Moksh Jain
+  title: "Parameterization and Conditioning"
+  abstract: ""
+  session: day2
+  date: 20231109
+  time: "14:00"
+  tags:
+    - name: Website
+      link: https://mj10.github.io/
+  skip: False
+
+- fullname: Léna Néhale Ezzine
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: 
+  position: PhD Student
+  bio: ""
+  photo: lne.jpeg
+  alttext: Léna Néhale Ezzine
+  title: "Maximum Likelihood Training"
+  abstract: ""
+  session: day2
+  date: 20231109
+  time: "14:40"
+  skip: False
+
+- fullname: Salem Lahlou
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle: 
+  position: PhD Student
+  bio: ""
+  photo: salem_lahlou.png
+  alttext: Salem Lahlou
+  title: "Continuous GFlowNets"
+  abstract: ""
+  session: day2
+  date: 20231109
+  time: "15:30"
+  tags:
+    - name: Website
+      link: https://saleml.github.io/
   skip: False
