@@ -1,5 +1,5 @@
 ---
-layout: page-floatbutton
+layout: page
 title: Team
 permalink: /team
 ---

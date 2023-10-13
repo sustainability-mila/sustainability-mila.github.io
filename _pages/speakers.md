@@ -1,6 +1,6 @@
 ---
 title: Speakers
-layout: page-floatbutton
+layout: page
 permalink: /speakers
 ---
 {% assign speakers = site.data.speakers | sort: "date" %}
