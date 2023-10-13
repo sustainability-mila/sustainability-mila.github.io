@@ -1,7 +1,5 @@
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a postdoc at Mila. I am interested in the fundamental aspects of learning,
-    both in brains and machines and in applications of machine
-    learning to fight climate change.
+  bio: I am a postdoc at Mila. I research machine learning methods to improve our Science to tackle the climate crisis.
   committee: General Committee
   email: alex.hernandez-garcia@mila.quebec
   fullname: Alex Hernandez-Garcia
@@ -11,12 +9,29 @@
   twitter: https://twitter.com/alexhdezgcia
   website: https://alexhernandezgarcia.github.io
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: I am a second-year PhD student at Mila working on AI generative models for scientific discovery. My research interests are evolving and currently they include drug discovery, material design, geometric deep learning, bayesian methods, causality.
+  bio: I am a third-year Ph.D. student at Mila working on environmental applications of AI. My current research focuses on biodiversity monitoring using remote sensing and citizen science data.
   committee: General Committee
-  email: alexandra.volokhova@mila.quebec
-  fullname: Alexandra Volokhova
-  photo: alexandra_volokhova.jpg
-  pronouns: "she/она"
-  alttext: Alexandra has auburn hair in this image, blue eyes and she smiles into the camera.
-  website: https://alexandravolokhova.github.io
-  twitter: https://twitter.com/alex_volokhova
+  email: tengmeli@mila.quebec
+  fullname: Mélisande Teng
+  photo: melisande_teng.jpg
+  pronouns: "she/elle"
+  twitter: https://twitter.com/melisandeteng
+  website: https://melisandeteng.github.io
+- affiliation: "Mila"
+  bio: I am Annie-Shan :)
+  committee: General Committee
+  email: annie-shan.morin@mila.quebec
+  fullname: Annie-Shan Morin
+  photo: annie-shan_morin.jpg
+  pronouns: "she/elle"
+  website: https://mila.quebec/personne/annie-shan-morin/
+- affiliation: "Mila, McGill University"
+  bio: I am Arthur :)
+  committee: General Committee
+  email: arthur.ouaknine@mila.quebec
+  fullname: Arthur Ouaknine
+  photo: arthur_ouaknine.jpg
+  pronouns: "he/il"
+  alttext: Arthur
+  twitter: https://twitter.com/ArthurOuaknine
+  website: https://arthurouaknine.github.io/

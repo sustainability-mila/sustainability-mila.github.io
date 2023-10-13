@@ -1,140 +1,21 @@
-- fullname: Yoshua Bengio
+- fullname: Julia Kaltenborn
   affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: Prof.
-  position: Scientific Director of Mila, Turing Award 2018
-  bio: "Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun.
-
-  He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
-
-  In 2019, he was awarded the prestigious Killam Prize and in 2022, became the computer scientist with the highest h-index in the world. He is a Fellow of both the Royal Society of London and Canada, Knight of the Legion of Honor of France and Officer of the Order of Canada.
-
-  Concerned about the social impact of AI and the objective that AI benefits all, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence."
-  photo: yoshua_bengio.jpg
-  alttext: Prof. Yoshua Bengio
-  title: "Introductory Remarks"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "09:00"
+  - Mila
+  - McGill University
+  nametitle:
+  position: PhD student
+  bio: "I am second-year MSc student at Mila using machine learning for climate science. I especially like working with cryospheric data and climate models."
+  photo: julia_kaltenborn.jpg
+  alttext: Julia Kaltenborn
+  title: "Juneau Icefield Research Program 2023"
+  abstract: "Juneau Icefield Research Program 2023"
+  session: inperson
+  date: 20231003
+  time: "15:00"
   tags:
-    - name: Website
-      link: https://yoshuabengio.org/
+    - name: Movie
+      link: https://youtu.be/Sg8yLphRLk8?si=VgdVPh_luDJDLKLB
   streams:
-    - name: Crowdcast
-      link: https://www.crowdcast.io/c/ai-helps-ukraine/stAnz
     - name: YouTube
-      link: https://www.youtube.com/watch?v=uOzCKnTDvqY
-  skip: False
-
-- fullname: Emmanuel Bengio
-  affiliations:
-  - Recursion
-  nametitle: Dr.
-  position: Senior Machine Learning Scientist
-  bio: ""
-  photo: eb.jpg
-  alttext: Dr. Emmanuel Bengio
-  title: "Introduction to GFlowNets: Part 1"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "09:30"
-  tags:
-    - name: Website
-      link: https://folinoid.com/
-  skip: False
-
-
-- fullname: Nikolay Malkin
-  affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: Dr.
-  position: Postdoctoral Fellow
-  bio: ""
-  photo: nm.jpg
-  alttext: Dr. Nikolay Malkin
-  title: "Introduction to GFlowNets: Part 2"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "10:15"
-  tags:
-    - name: Website
-      link: https://malkin1729.github.io/
-  skip: False
-
-- fullname: Jarrid Rector-Brooks
-  affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: 
-  position: PhD Student
-  bio: ""
-  photo: jarrid_rb.jpg
-  alttext: Jarrid Rector-Brooks
-  title: "Training GFlowNets"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "11:00"
-  tags:
-    - name: Website
-      link: https://jarridrb.github.io/
-  skip: False
-
-- fullname: Moksh Jain
-  affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: 
-  position: PhD Student
-  bio: ""
-  photo: mj.jpg
-  alttext: Moksh Jain
-  title: "Parameterization and Conditioning"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "14:00"
-  tags:
-    - name: Website
-      link: https://mj10.github.io/
-  skip: False
-
-- fullname: Léna Néhale Ezzine
-  affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: 
-  position: PhD Student
-  bio: ""
-  photo: lne.jpeg
-  alttext: Léna Néhale Ezzine
-  title: "Maximum Likelihood Training"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "14:40"
-  skip: False
-
-- fullname: Salem Lahlou
-  affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: 
-  position: PhD Student
-  bio: ""
-  photo: salem_lahlou.png
-  alttext: Salem Lahlou
-  title: "Continuous GFlowNets"
-  abstract: ""
-  session: day2
-  date: 20231109
-  time: "15:30"
-  tags:
-    - name: Website
-      link: https://saleml.github.io/
+      link: #
   skip: False
