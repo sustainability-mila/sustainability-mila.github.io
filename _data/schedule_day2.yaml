@@ -29,7 +29,7 @@
   time_end: "12:30"
 - name: Lunch
   time_start: "12:30"
-  time_end: "13:30"
+  time_end: "14:00"
 - name: Talk
   title: Parameterization and Conditioning
   time_start: "14:00"
@@ -56,5 +56,5 @@
   time_start: "16:30"
   time_end: "17:30"
 - name: Social
-  time_start: "18:30"
+  time_start: "17:30"
   time_end: "20:30"
