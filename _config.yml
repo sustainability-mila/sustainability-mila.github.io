@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mila GFN Workshop
-tagline: A 3-day free workshop on GFlowNets at Mila in Montreal
-email: gflownet.workshop@mila.quebec
+title: Mila Sustainability Reading Group
+tagline: Talks and discussion about sustanability
+email: sustainability_committee@mila.quebec
 twitter_username: Mila_Quebec
-github_username: GFNOrg
+github_username: sustainability-mila
 twitter:
   - username: Mila_Quebec
-description: A 3-day free workshop on GFlowNets at Mila in Montreal
+description: Talks and discussion about sustanability
 author: Mila
 baseurl: ""
 url: ""
-logo: assets/img/logo/2023_GFlowNet_logo_Color.png
-favicon: assets/img/logo/2023_GFlowNet_logo_White.png
+logo: assets/img/logo/Mila_Logo_Web_Coul_RGB.png
+favicon: assets/img/logo/Mila_Logo_Web_Coul_RGB.png
 
 # Reading Files
 include:
@@ -47,7 +47,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: ./assets/img/hero/molecules-toy-unsplash-5040x2366-mauve-90dpi.png
+      hero_image: ./assets/img/hero/trees-unsplash-5040x2366-mauve-96dpi.png
 
 # defaults:
 #   - scope:
