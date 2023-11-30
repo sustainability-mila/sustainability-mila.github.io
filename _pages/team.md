@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-Meet the wonderful organisers of the Mila Sustainability Reading Group, in random order!
+Meet the amazing organisers of the Mila Sustainability Reading Group, in random order!
 
 {% assign people = site.data.team | sample: site.data.team.size %}
 {% for person in people %}
