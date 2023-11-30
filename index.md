@@ -6,7 +6,7 @@ toc: false
 
 # About
 
-The Mila Sustainability Reading Group is ... cool!
+The Mila Sustainability Reading Group is ... great!
 
 # Contact
 
