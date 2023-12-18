@@ -37,11 +37,24 @@
   - Université de Montréal
   nametitle:
   position: Full Professor in the Department of Biological Sciences
-  bio: "a member of the Institut de recherche en biologie végétale, and holds the Canada Research Chair in Plant Functional Biodiversity. He also heads the Canadian Airborne Biodiversity Observatory (CABO). His current research focuses on the development of new approches for vegetation monitoring (plant biodiversity and carbon) based on high-resolution remote sensing using drones and computer vision. He is particularly interested in applications of this technology that can help mitigate biodiversity loss and climate change, and that can have rapid and widespread impact."
+  bio: "Étienne is a member of the Institut de recherche en biologie végétale, and holds the Canada Research Chair in Plant Functional Biodiversity. He also heads the Canadian Airborne Biodiversity Observatory (CABO). His current research focuses on the development of new approches for vegetation monitoring (plant biodiversity and carbon) based on high-resolution remote sensing using drones and computer vision. He is particularly interested in applications of this technology that can help mitigate biodiversity loss and climate change, and that can have rapid and widespread impact."
   photo: 
   alttext: 
-  title: "Tree monitoring "
-  abstract: "Tree monitoring "
+  title: "Tree monitoring"
+  abstract: "Tree monitoring"
   session: inperson
   date: 2023-10-23
+  skip: False
+   - fullname: Jennifer Garard
+  affiliations:
+  - Future Earth Canada
+  nametitle:
+  position: Deputy Director, Sustainability in the Digital Age, Canada Hub
+  bio: "Jennifer is the Research Manager for the Sustainability in the Digital Age initiative, where she coordinates, advances, and oversees all research-related activities, and a Science Officer at Future Earth. Previously, Jennifer was a researcher with the working group Scientific Assessments, Ethics, and Public Policy at the Mercator Research Institute on Global Commons and Climate Change in Berlin, Germany, and an intern with the Secretariat of the Convention on Biological Diversity Health and Biodiversity Cross-Cutting Initiative"
+  photo: 
+  alttext: 
+  title: "The Evolving Landscape of Sustainability Governance"
+  abstract: "The Evolving Landscape of Sustainability Governance"
+  session: inperson
+  date: 2023-11-20
   skip: False
