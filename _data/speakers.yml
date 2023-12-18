@@ -84,3 +84,17 @@
   session: inperson
   date: 2024-01-29
   skip: False
+   - fullname: Oliver Sonnentag
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position: Assistant Professor in the Department of Geography
+  bio: "Oliver is interested in atmospheric biogeosciences in high latitudes: understanding changes in land surface – atmosphere interactions in response to rapidly changing climate and permafrost conditions, and local, regional and global biophysical parameter monitoring and mapping to study changes in ecosystem composition, structure, functioning and phenology."
+  photo: 
+  alttext: 
+  title: "Design and cities"
+  abstract: "Design and cities"
+  session: inperson
+  date: 2024-02-12
+  skip: False
+
