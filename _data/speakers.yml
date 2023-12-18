@@ -97,4 +97,17 @@
   session: inperson
   date: 2024-02-12
   skip: False
+ - fullname: Christophe Gallant, Xavier Morin and Axel Bogos
+  affiliations:
+  - Driad AI
+  nametitle:
+  position: Co-Founder of Driad
+  bio: "They are on a mission to make forest inventories and management more efficient, data-driven and sustainable."
+  photo: 
+  alttext: 
+  title: "Transforming Forest Management with Scalable Data-Driven Insights"
+  abstract: "Transforming Forest Management with Scalable Data-Driven Insights"
+  session: inperson
+  date: 2024-02-26
+  skip: False
 
