@@ -71,3 +71,16 @@
   session: inperson
   date: 2024-01-15
   skip: False
+   - fullname: Shin Koseki
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position: Assistant Professor at the School of Urban Planning and Landscape Architecture
+  bio: "Shin is interested in the integration of new technologies in planning practices, the contribution of interactive democracy to the sustainable development of territories, and the role of public space in the acquisition of knowledge and skills. His research interests include the application of artificial intelligence systems in urban design and new processes of environmental and technological governance."
+  photo: 
+  alttext: 
+  title: "Design and cities"
+  abstract: "Design and cities"
+  session: inperson
+  date: 2024-01-29
+  skip: False
