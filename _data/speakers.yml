@@ -1,3 +1,16 @@
+- fullname: Justine Boulent
+  affiliations:
+  - Whale Seeker
+  nametitle:
+  position: Lead AI Researcher
+  bio: 
+  photo: 
+  alttext: 
+  title: "Whales and other marine mammals"
+  abstract: "Whales and other marine mammals"
+  session: inperson
+  date: 2023-09-25
+  skip: False
 - fullname: Julia Kaltenborn
   affiliations:
   - Mila
