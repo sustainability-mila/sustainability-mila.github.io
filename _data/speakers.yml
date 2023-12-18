@@ -1,3 +1,16 @@
+- fullname: Justine Boulent
+  affiliations:
+  - Whale Seeker
+  nametitle:
+  position: Lead AI Researcher
+  - Université de Montréal
+  photo: 
+  alttext: 
+  title: "Whales and other marine mammals"
+  abstract: "Whales and other marine mammals"
+  session: inperson
+  date: 2023-09-25
+  skip: False
 - fullname: Julia Kaltenborn
   affiliations:
   - Mila
@@ -19,3 +32,82 @@
     - name: YouTube
       link: #
   skip: False
+  - fullname: Etienne Laliberté
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position: Full Professor in the Department of Biological Sciences
+  bio: "Étienne is a member of the Institut de recherche en biologie végétale, and holds the Canada Research Chair in Plant Functional Biodiversity. He also heads the Canadian Airborne Biodiversity Observatory (CABO). His current research focuses on the development of new approches for vegetation monitoring (plant biodiversity and carbon) based on high-resolution remote sensing using drones and computer vision. He is particularly interested in applications of this technology that can help mitigate biodiversity loss and climate change, and that can have rapid and widespread impact."
+  photo: 
+  alttext: 
+  title: "Tree monitoring"
+  abstract: "Tree monitoring"
+  session: inperson
+  date: 2023-10-23
+  skip: False
+   - fullname: Jennifer Garard
+  affiliations:
+  - Future Earth Canada
+  nametitle:
+  position: Deputy Director, Sustainability in the Digital Age, Canada Hub
+  bio: "Jennifer is the Research Manager for the Sustainability in the Digital Age initiative, where she coordinates, advances, and oversees all research-related activities, and a Science Officer at Future Earth. Previously, Jennifer was a researcher with the working group Scientific Assessments, Ethics, and Public Policy at the Mercator Research Institute on Global Commons and Climate Change in Berlin, Germany, and an intern with the Secretariat of the Convention on Biological Diversity Health and Biodiversity Cross-Cutting Initiative"
+  photo: 
+  alttext: 
+  title: "The Evolving Landscape of Sustainability Governance"
+  abstract: "The Evolving Landscape of Sustainability Governance"
+  session: inperson
+  date: 2023-11-20
+  skip: False
+   - fullname: Laura Pollock
+  affiliations:
+  - McGill
+  nametitle:
+  position: Assistant Professor in the Department of Biology
+  bio: "Laura aimsto understand how and why biodiversity is distributed across the landscapes. She uses predictive modelling that draws from a range of subfields (macro-ecology, community ecology, biogeography and phylo-geography) and data (traits, phylogenies, experts) and she's also interested in translating biodiversity science to inform conservation planning."
+  photo: 
+  alttext: 
+  title: "How and why biodiversity is distributed across the landscapes"
+  abstract: "How and why biodiversity is distributed across the landscapes"
+  session: inperson
+  date: 2024-01-15
+  skip: False
+   - fullname: Shin Koseki
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position: Assistant Professor at the School of Urban Planning and Landscape Architecture
+  bio: "Shin is interested in the integration of new technologies in planning practices, the contribution of interactive democracy to the sustainable development of territories, and the role of public space in the acquisition of knowledge and skills. His research interests include the application of artificial intelligence systems in urban design and new processes of environmental and technological governance."
+  photo: 
+  alttext: 
+  title: "Design and cities"
+  abstract: "Design and cities"
+  session: inperson
+  date: 2024-01-29
+  skip: False
+   - fullname: Oliver Sonnentag
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position: Assistant Professor in the Department of Geography
+  bio: "Oliver is interested in atmospheric biogeosciences in high latitudes: understanding changes in land surface – atmosphere interactions in response to rapidly changing climate and permafrost conditions, and local, regional and global biophysical parameter monitoring and mapping to study changes in ecosystem composition, structure, functioning and phenology."
+  photo: 
+  alttext: 
+  title: "Design and cities"
+  abstract: "Design and cities"
+  session: inperson
+  date: 2024-02-12
+  skip: False
+ - fullname: Christophe Gallant, Xavier Morin and Axel Bogos
+  affiliations:
+  - Driad AI
+  nametitle:
+  position: Co-Founder of Driad
+  bio: "They are on a mission to make forest inventories and management more efficient, data-driven and sustainable."
+  photo: 
+  alttext: 
+  title: "Transforming Forest Management with Scalable Data-Driven Insights"
+  abstract: "Transforming Forest Management with Scalable Data-Driven Insights"
+  session: inperson
+  date: 2024-02-26
+  skip: False
+
