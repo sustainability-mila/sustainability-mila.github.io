@@ -58,3 +58,16 @@
   session: inperson
   date: 2023-11-20
   skip: False
+   - fullname: Laura Pollock
+  affiliations:
+  - McGill
+  nametitle:
+  position: Assistant Professor in the Department of Biology
+  bio: "Laura aimsto understand how and why biodiversity is distributed across the landscapes. She uses predictive modelling that draws from a range of subfields (macro-ecology, community ecology, biogeography and phylo-geography) and data (traits, phylogenies, experts) and she's also interested in translating biodiversity science to inform conservation planning."
+  photo: 
+  alttext: 
+  title: "How and why biodiversity is distributed across the landscapes"
+  abstract: "How and why biodiversity is distributed across the landscapes"
+  session: inperson
+  date: 2024-01-15
+  skip: False
