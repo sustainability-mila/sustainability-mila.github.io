@@ -9,6 +9,7 @@
   abstract: "The degrowth literature has so far largely left unshaped its vision on the role of technology. In the meantime, governments all over the world are accelerating the development and application of high-end digital technologies such as Artificial Intelligence, notably because of their potential to enhance economic growth. Considering that these developments risk locking-in our society in a set of technological infrastructures that are environmentally destructive and growth-pursuing, there is an urgent need to carry out a critical analysis of these technologies from a degrowth perspective. This presentation will summarise some of the main questions and findings of my master’s thesis “A Degrowth Perspective on Artificial Intelligence - Analysing the Appropriateness of Machine Learning to a Degrowth Context”. It will notably talk about the links between Artificial Intelligence and economic growth as well the concept of convivial technologies. This session will conclude by opening up a discussion on how we could imagine digital technologies differently - in line with people and the planet."
   session: inperson
   date: 2025-04-29
+  time: "16:00"
   skip: False
 
 - fullname: Julie Carreau
@@ -22,6 +23,7 @@
   abstract:
   session: inperson
   date: 2025-03-18
+  time: "16:00"
   skip: False
 
 - fullname: Vincent Mai
@@ -35,6 +37,7 @@
   abstract: "The electric power field is undergoing major changes due to the desired energy transition. The challenges for utilities include producing more energy, integrating intermittent renewable sources, adapting to changes in consumer behavior, and providing a reliable service through more frequent extreme weather events. At Hydro-Québec's Research Center, we explore how machine learning can be used to better model, optimize, and robustify the power system, for production, transport, and distribution in this context. In this presentation, Vincent will present three projects he has been working on in this field: Active learning-based optimization of hydroelectric turbine startup to minimize fatigue (submitted to Renewable Energy) Safe reinforcement learning for remote microgrid optimization with industrial constraints (presented at NeurIPS CCAI, together with Hadi Nekoei from Mila) Foundation Models for the electric power grid (published in Joule - a long term open source project)"
   session: inperson
   date: 2025-03-04
+  time: "16:00"
   skip: False
 
 - fullname: Jen Gobby
@@ -48,6 +51,7 @@
   abstract: 
   session: inperson
   date: 2025-02-18
+  time: "16:00"
   skip: False
 
 - fullname: Jonnie Penn
@@ -61,6 +65,7 @@
   abstract: "The semiconductor industry has a global market cap of 6.7 trillion dollars. The software industry has a market cap of 11.9 trillion. I argue that the compounding and global-in-scale political, economic, and social implications of runaway climate instability have not yet been priced into this cumulative ±18 trillion dollar valuation, nor accounted for in popular commentary about an inevitable ‘AI future.’ Rather than omit fires, floods, droughts, famines, and their resulting human and ecological implications from speculations about AI’s future, I attempt to account for their impact on the incentives driving technical research in the coming decades. With reference to history, I outline three speculative trends: A) increased overlap between the political economy of the tech and energy sectors, opening room for a decomputerisation movement, B) a push towards AI-based edge computing and C) the emergence of open source hardware towards the semiconductor industry’s ‘Raspberry Pi’ moment."
   session: inperson
   date: 2025-02-04
+  time: "16:00"
   skip: False
 
 - fullname: Tegan Maharaj
@@ -75,6 +80,7 @@
   abstract: 
   session: inperson
   date: 2025-01-21
+  time: "16:00"
   skip: False
 
 - fullname: Oliver Sonnentag
@@ -89,6 +95,7 @@
   abstract: 
   session: inperson
   date: 2024-02-12
+  time: "16:00"
   skip: False
 
 - fullname: Shin Koseki

@@ -11,7 +11,7 @@
   <tbody>
     {% assign allspeakers = site.data.speakers %}
     {% assign today = "now" | date: "%s" %}
-    {% assign sessions = site.data.sessions | sort: 'date' %}
+    {% assign sessions = site.data.sessions | sort: 'date' | reverse %}
     {% for event in sessions %}
       {% assign date = event.date | date: "%s" %}
       {% if date > today %}

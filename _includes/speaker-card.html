@@ -39,7 +39,7 @@
           {% endif %}
           {% capture talk %}
             {% if speaker.session == "inperson" %}
-              <a href="schedule"><em>Mila: Thursday, December 8th, {{ speaker.time.first }} (EST)</em></a>
+              <a href="schedule"><em>Mila: {{ speaker.date }}, {{ speaker.time }} (EST)</em></a>
             {% elsif speaker.session == "virtual" %}
               {% assign date = site.data.datesdict | where: "code", speaker.date | first %}
               <a href="schedule"><em>Online series: {{ date.readable }}, {{ speaker.time }} (UTC)</em></a>
