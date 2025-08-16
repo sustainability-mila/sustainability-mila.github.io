@@ -1,4 +1,4 @@
-# gfnorg.github.io
+# sustainability-mila.github.io
 
 # Run site locally
 ```
