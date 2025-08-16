@@ -1,3 +1,160 @@
+- fullname: Marion Meyers
+  affiliations:
+  nametitle: 
+  position: 
+  bio: 
+  photo: marion_meyers.jpg
+  alttext: Marion Meyers
+  title: "A Degrowth Perspective on Artificial Intelligence"
+  abstract: "The degrowth literature has so far largely left unshaped its vision on the role of technology. In the meantime, governments all over the world are accelerating the development and application of high-end digital technologies such as Artificial Intelligence, notably because of their potential to enhance economic growth. Considering that these developments risk locking-in our society in a set of technological infrastructures that are environmentally destructive and growth-pursuing, there is an urgent need to carry out a critical analysis of these technologies from a degrowth perspective. This presentation will summarise some of the main questions and findings of my master’s thesis “A Degrowth Perspective on Artificial Intelligence - Analysing the Appropriateness of Machine Learning to a Degrowth Context”. It will notably talk about the links between Artificial Intelligence and economic growth as well the concept of convivial technologies. This session will conclude by opening up a discussion on how we could imagine digital technologies differently - in line with people and the planet."
+  session: inperson
+  date: 2025-04-29
+  skip: False
+
+- fullname: Julie Carreau
+  affiliations:
+  nametitle: 
+  position: 
+  bio: "Julie Carreau held a position as a researcher for 11 years at the Institut de recherche pour le développement in Montpellier, France. In this context, she spent the last two years in Tunis, Tunisia, at the École Supérieur des Communications de Tunis. She works on: 1) Data valuation for decision making and 2) Decision support made in complex systems."
+  photo: julie_carreau.jpg
+  alttext: Julie Carreau
+  title: "Data valuation for decision making & decision support made in complex systems"
+  abstract:
+  session: inperson
+  date: 2025-03-18
+  skip: False
+
+- fullname: Vincent Mai
+  affiliations:
+  nametitle: 
+  position: 
+  bio: 
+  photo: vincent_mai.jpg
+  alttext: Vincent Mai
+  title: "Applied research in machine learning for electric power systems"
+  abstract: "The electric power field is undergoing major changes due to the desired energy transition. The challenges for utilities include producing more energy, integrating intermittent renewable sources, adapting to changes in consumer behavior, and providing a reliable service through more frequent extreme weather events. At Hydro-Québec's Research Center, we explore how machine learning can be used to better model, optimize, and robustify the power system, for production, transport, and distribution in this context. In this presentation, Vincent will present three projects he has been working on in this field: Active learning-based optimization of hydroelectric turbine startup to minimize fatigue (submitted to Renewable Energy) Safe reinforcement learning for remote microgrid optimization with industrial constraints (presented at NeurIPS CCAI, together with Hadi Nekoei from Mila) Foundation Models for the electric power grid (published in Joule - a long term open source project)"
+  session: inperson
+  date: 2025-03-04
+  skip: False
+
+- fullname: Jen Gobby
+  affiliations:
+  nametitle: 
+  position: 
+  bio: "Jen Gobby is a settler living on unceded Abenaki territory in the Eastern Townships of Quebec. She has a Ph.D. in Natural Resource Science from McGill University and teaches courses at Bishop’s, McGill, University of Victoria and Haida Gwaii Institute. She is the author of the book More Powerful Together: Conversations with Climate Activists and Indigenous Land Defenders and currently works with Research for the Front Lines, a network that supports the research needs of communities and movements fighting for environmental and climate justice across so-called Canada. (www.jengobby.ca)"
+  photo: jen_gobby.jpg
+  alttext: Jen Gobby
+  title: "Research & Activism for Climate Justice"
+  abstract: 
+  session: inperson
+  date: 2025-02-18
+  skip: False
+
+- fullname: Jonnie Penn
+  affiliations: University of Cambridge
+  nametitle: 
+  position: Associate Teaching Professor of AI Ethics and Society
+  bio: "Dr Jonnie Penn, FRSA, is an Associate Teaching Professor of AI Ethics and Society at the University of Cambridge. He is a historian of technology, a #1 New York Times bestselling author, and public speaker. Penn serves as a Faculty Affiliate at the Berkman Klein Center at Harvard University, a Research Fellow and Teaching Associate at the Department of History and Philosophy of Science, a Research Fellow at St. Edmund’s College and as an Associate Fellow at the Leverhulme Centre for the Future of Intelligence. He was formerly a MIT Media Lab Assembly Fellow, Google Technology Policy Fellow, Fellow of the British National Academy of Writing and popular broadcaster."
+  photo: 
+  alttext: 
+  title: "Climate Instability and the Future of AI: Force Majeure, Open Source Hardware, and a Decomputerisation Movement"
+  abstract: "The semiconductor industry has a global market cap of 6.7 trillion dollars. The software industry has a market cap of 11.9 trillion. I argue that the compounding and global-in-scale political, economic, and social implications of runaway climate instability have not yet been priced into this cumulative ±18 trillion dollar valuation, nor accounted for in popular commentary about an inevitable ‘AI future.’ Rather than omit fires, floods, droughts, famines, and their resulting human and ecological implications from speculations about AI’s future, I attempt to account for their impact on the incentives driving technical research in the coming decades. With reference to history, I outline three speculative trends: A) increased overlap between the political economy of the tech and energy sectors, opening room for a decomputerisation movement, B) a push towards AI-based edge computing and C) the emergence of open source hardware towards the semiconductor industry’s ‘Raspberry Pi’ moment."
+  session: inperson
+  date: 2025-02-04
+  skip: False
+
+- fullname: Tegan Maharaj
+  affiliations:
+  -  HEC Montréal
+  nametitle:
+  position: Assistant Professor in Machine Learning, Department of Decision Science
+  bio: "Tegan Maharaj recently moved back to Montreal to become a core member of Mila, with a tenure-track position at HEC. The goal of Tegan's research is to contribute understanding and techniques to the growing science of responsible AI development, while usefully applying AI to high-impact ecological problems related to climate change, epidemiology, AI alignment and ecological impact assessments. Tegan's recent research has two themes: (1) using deep models for policy analysis and risk mitigation, and (2) designing data or unit test environments to empirically evaluate learning behaviour or simulate the deployment of AI systems."
+  photo: 
+  alttext: 
+  title: "Ecological Risk & Responsible AI; Theory & Applications"
+  abstract: 
+  session: inperson
+  date: 2025-01-21
+  skip: False
+
+- fullname: Oliver Sonnentag
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position: Assistant Professor in the Department of Geography
+  bio: "Oliver is interested in atmospheric biogeosciences in high latitudes: understanding changes in land surface – atmosphere interactions in response to rapidly changing climate and permafrost conditions, and local, regional and global biophysical parameter monitoring and mapping to study changes in ecosystem composition, structure, functioning and phenology."
+  photo: 
+  alttext: 
+  title: "Atmospheric biogeosciences in high latitudes: understanding changes in land surface"
+  abstract: 
+  session: inperson
+  date: 2024-02-12
+  skip: False
+
+- fullname: Shin Koseki
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position:  Assistant Professor at the School of Urban Planning and Landscape Architecture
+  bio: "Shin is interested in the integration of new technologies in planning practices, the contribution of interactive democracy to the sustainable development of territories, and the role of public space in the acquisition of knowledge and skills. His research interests include the application of artificial intelligence systems in urban design and new processes of environmental and technological governance."
+  photo: 
+  alttext: 
+  title: "Design and cities"
+  abstract: 
+  session: inperson
+  date: 2024-01-29
+  time: "15:00"
+  tags:
+    - name: 
+      link: 
+  streams:
+    - name: 
+      link: 
+  skip: False
+
+- fullname: Jennifer Garard
+  affiliations:
+  - Future Earth Canada
+  nametitle:
+  position:  Deputy Director, Sustainability in the Digital Age, Canada Hub
+  bio: "Jennifer is the Research Manager for the Sustainability in the Digital Age initiative, where she coordinates, advances, and oversees all research-related activities, and a Science Officer at Future Earth. Previously, Jennifer was a researcher with the working group Scientific Assessments, Ethics, and Public Policy at the Mercator Research Institute on Global Commons and Climate Change in Berlin, Germany, and an intern with the Secretariat of the Convention on Biological Diversity Health and Biodiversity Cross-Cutting Initiative"
+  photo: 
+  alttext: 
+  title: "The Evolving Landscape of Sustainability Governance"
+  abstract: 
+  session: inperson
+  date: 2023-11-20
+  time: "15:00"
+  tags:
+    - name: 
+      link: 
+  streams:
+    - name: 
+      link: 
+  skip: False
+
+
+- fullname: Etienne Laliberté
+  affiliations:
+  - Université de Montréal
+  nametitle:
+  position:  Full Professor in the Department of Biological Sciences
+  bio: "A member of the Institut de recherche en biologie végétale, and holds the Canada Research Chair in Plant Functional Biodiversity. He also heads the Canadian Airborne Biodiversity Observatory (CABO). His current research focuses on the development of new approches for vegetation monitoring (plant biodiversity and carbon) based on high-resolution remote sensing using drones and computer vision. He is particularly interested in applications of this technology that can help mitigate biodiversity loss and climate change, and that can have rapid and widespread impact."
+  photo: 
+  alttext: 
+  title: Vegetation monitoring with drones and AI for environmental applications
+  abstract: 
+  session: inperson
+  date: 2023-10-23
+  time: "15:00"
+  tags:
+    - name: 
+      link: 
+  streams:
+    - name: 
+      link: 
+  skip: False
+
 - fullname: Julia Kaltenborn
   affiliations:
   - Mila
@@ -18,4 +175,26 @@
   streams:
     - name: YouTube
       link: #
+  skip: False
+
+
+- fullname: Justine Boulent
+  affiliations:
+  - Whale Seeker
+  nametitle:
+  position:  Lead AI Researcher
+  bio: 
+  photo: 
+  alttext: 
+  title: "Whales and other marine mammals"
+  abstract: "She will be presenting the challenges around detecting marine mammals and WhaleSeeker's human-in-the-loop approach. You can read more about it here: https://www.frontiersin.org/articles/10.3389/fmars.2023.1099479/full!"
+  session: inperson
+  date: 2023-09-25
+  time: "15:00"
+  tags:
+    - name: 
+      link: 
+  streams:
+    - name: 
+      link: 
   skip: False
