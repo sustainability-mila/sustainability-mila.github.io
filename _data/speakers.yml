@@ -1,3 +1,19 @@
+- fullname: Mélisande Teng
+  affiliations:
+  - Mila 
+  - Université de Montréa
+  nametitle: 
+  position: PhD student 
+  bio: "She's currently working on application of machine learning to tackle climate change under the supervision of Prof. Yoshua Bengio, Prof. Hugo Larochelle, and Prof. David Rolnick. Her talk will be about her latest work SatBird: Bird Species Distribution Modeling with Remote Sensing and Citizen Science Data. "
+  photo: 
+  alttext: 
+  title: "SatBird: Bird Species Distribution Modeling with Remote Sensing and Citizen Science Data"
+  abstract: 
+  session: inperson
+  date: 2024-02-26
+  time: "15:00"
+  skip: False
+
 - fullname: Marion Meyers
   affiliations:
   nametitle: 
@@ -13,9 +29,9 @@
   skip: False
 
 - fullname: Julie Carreau
-  affiliations:
+  affiliations: Polytechnique Montréal
   nametitle: 
-  position: 
+  position:  Assistant Professor at Department of Mathematical and Industrial Engineering
   bio: "Julie Carreau held a position as a researcher for 11 years at the Institut de recherche pour le développement in Montpellier, France. In this context, she spent the last two years in Tunis, Tunisia, at the École Supérieur des Communications de Tunis. She works on: 1) Data valuation for decision making and 2) Decision support made in complex systems."
   photo: julie_carreau.jpg
   alttext: Julie Carreau
