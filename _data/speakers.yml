@@ -1,3 +1,18 @@
+- fullname: Maxim Larrivée 
+  affiliations:
+  - Montréal Insectarium
+  nametitle: 
+  position: Director of the Montréal Insectarium
+  bio: "Since 2019, Maxim Larrivée has been the director of the Insectarium de Montréal. He is passionate about the distribution of insect species over time and space, and is also interested in the tools used to document this distribution. He combines several innovative approaches to biodiversity monitoring, including participatory science and artificial intelligence."
+  photo: maxim_larrivee.jpg
+  alttext: Maxim Larrivée 
+  title: "L’Insectarium de Montréal : une vitrine d’innovation pour se connecter avec les insectes autrement"
+  abstract: "L’Insectarium de Montréal se distingue par ses approches audacieuses et novatrices pour faire découvrir les insectes sous toutes leurs facettes autant pour le volet recherche qu’éducatif du musée. En repensant l’expérience muséale, l’Insectarium invite le public à dépasser les préjugés et à développer une véritable entomophilie — un amour et une curiosité pour le monde des insectes en entrant en connexion avec eux, notamment par le biais de l’IA. Au cœur de cette démarche se trouve l’étude participative de la biodiversité. À même le parcours muséal, les visiteurs ont la possibilité de photographier les insectes qu’ils observent dans le grand vivarium et les identifier grâce à un algorithme développé en collaboration avec le MILA. Les visiteurs redevenus citoyens sont par la suite invités à contribuer activement à la documentation des espèces locales, notamment par l’observation, la photographie et le partage de données à travers de nombreux projets de science participative. Ces initiatives favorisent une compréhension plus fine des écosystèmes et renforcent le lien des participants avec la nature, la science et la société. L’Insectarium intègre également des technologies de pointe dans le musée et en recherche, comme la détection et le monitoring automatisé assisté par intelligence artificielle de la biodiversité entomologique. Ces outils permettent de suivre en temps réel les populations d’insectes, d’analyser leurs comportements et de détecter des changements environnementaux subtils. Cette approche ouvre la voie à des collaborations scientifiques à grande échelle et se décline dans plusieurs projets collaboratifs du musée du grand nord Québécois jusqu’à l’Amérique Centrale. "
+  session: inperson
+  date: 2025-09-09
+  time: "16:00"
+  skip: False
+
 - fullname: Mélisande Teng
   affiliations:
   - Mila 
