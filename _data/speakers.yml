@@ -1,3 +1,35 @@
+- fullname: Loubna Benabbou
+  affiliations:
+  -  "Université du Québec à Rimouski"
+  nametitle: 
+  position: Full professor
+  bio: "Pr. Loubna Benabbou is a Research Chair Professor of Artificial Intelligence for Supply chain management at Université du Québec à Rimouski (UQAR) and an Associate Professor at the Computer Sciences and Operations Research department at University of Montreal. She is also an Affiliated Professor at Mila, GERAD and CIRRELT. Her research focuses on developing and applying machine learning and optimization approaches to support data-driven decision making. She is interested in the application of these approaches to supply chain management, digitalization of industrial processes and climate change risk mitigation.  With particular emphasis on decarbonizing maritime supply chains, Prof. Benabbou actively collaborates with the Quebec and Canadian maritime industry to develop intelligent systems that mitigate the impacts of maritime transport activities."
+  photo: loubna_benabbou.jpg
+  alttext: Loubna Benabbou
+  title: "Maritime Transport Environmental Impact: ML Approaches for Emissions Reduction and Marine Mammal Protection in the St. Lawrence Seaway"
+  abstract: "Maritime transport's environmental impact presents unprecedented challenges for marine ecosystems through emissions and acoustic pollution, yet ML in marine sciences remains underrepresented in environmental monitoring efforts. This presentation addresses this gap by demonstrating how ML revolutionizes our understanding of shipping's ecological footprint, particularly regarding emissions and noise pollution reduction and their impact on marine mammals in the St. Lawrence Seaway. Among various maritime transport emissions reduction strategies, operational optimization through just-in-time policies represents a short-term and low-cost solution. This approach enables vessels to adjust their speed, reducing unnecessary waiting, fuel consumption and noise pollution. We will present an intelligent maritime transport system based on ML models to predict accurate, real-time ETAs and speed as soon as any vessel enters Canadian waters, enabling comprehensive monitoring of maritime operations and the estimation of vessels' emissions and noise in the St. Lawrence River. This is a complex maritime corridor, where automated acoustic monitoring addresses critical challenges in marine mammal conservation. Marine mammals rely on sound for communication, navigation, and foraging, while increasing shipping activity introduces acoustic pollution that interferes with essential biological functions and generates physiological stress. In this presentation, we will also discuss an uncertainty-quantified imputation approach and an attention-guided denoising framework to transform raw hydrophone data from underwater sensor networks into reliable species detection and behavioral analysis tools. These approaches effectively handle noisy conditions, overlapping frequency signals, and incomplete sensor data while providing principled uncertainty quantification."
+  session: inperson
+  date: 2025-09-24
+  time: "16:00"
+  skip: False
+
+- fullname: A
+  affiliations:
+  - 
+  nametitle: 
+  position: 
+  bio:
+  photo: 
+  alttext: 
+  title: 
+  abstract: 
+  session: 
+  date: 
+  time: 
+  skip: True
+
+
+
 - fullname: Maxim Larrivée 
   affiliations:
   - Montréal Insectarium
@@ -12,6 +44,11 @@
   date: 2025-09-09
   time: "16:00"
   skip: False
+  tags:
+    - name: Slides
+      link: https://drive.google.com/file/d/1d_xAm7HzczJv-PrDoYC8-DxBM2IP_9WK/view?usp=sharing
+
+
 
 - fullname: Mélisande Teng
   affiliations:
