@@ -1,3 +1,18 @@
+- fullname: Juan Serpa
+  affiliations:
+  - McGill University 
+  nametitle: 
+  position: Associate Professor 
+  bio: "Juan Camilo is the founder of the Sustainability Academic Network (SUSAN) at SUSANhub.com, the largest sustainability social network in academia. SUSAN a platform designed to unite sustainability researchers, institutes, students, and organizations in the fight against climate change. SUSAN enables users to post and share datasets, academic papers, conferences, job postings, local events, and grants related to sustainability. These resources are categorized across a range of themes, including solar energy, mining, and circular economies. Through SUSAN, users can explore thousands of datasets, research papers, conferences, job opportunities, grants, and institutes, all dedicated to advancing sustainability. He is also the founding director of the Data Mangrove Institute (datamangrove.com), an organization that leverages data analytics to support biodiversity NGOs operating in Costa Rica and the Amazon Rainforest. His work centers on advancing digital transformation to empower these organizations in their conservation efforts. Among his various initiatives in Costa Rica, he developed Mono-SOS.com, a platform designed to assist in the rescue of monkeys and other wildlife injured on Costa Rican roads. This project utilizes data-driven approaches to identify optimal locations for building canopy bridges and road infrastructure improvements, facilitating safer crossings for fauna."
+  photo: juan_serpa.jpg
+  alttext: Juan Serpa
+  title: "A Lecture on Using AI to Build Monkey Bridges in Costa Rica—and to Create the LinkedIn of Sustainability (SUSANhub.com)"
+  session: inperson
+  abstract: "In the first part, Prof. Serpa will introduce Data Mangrove (datamangrove.com), an institute he founded in Costa Rica and the Amazon Rainforest in partnership with 12 NGOs and multiple universities. The institute leverages AI and data analytics to protect biodiversity across Latin America. The lecture will highlight key projects, including: 1)using AI to design infrastructure that safeguards endangered monkeys, 2)employing image recognition to detect illegal poaching, 3)applying machine learning to assist micro-farmers with pest control, and 4)supporting coast guards in removing microplastics from the Costa Rican Pacific. Prof. Serpa will also outline opportunities for attendees to develop research projects or experiential learning initiatives (mcgill.ca/costa-rica-study-trip) in collaboration with the institute. In the second part, Prof. Serpa will present the Sustainability Academic Network (SUSAN, susanhub.com)—dubbed the “LinkedIn of Sustainability.” This social network, created through generative AI, connects more than 80,000 sustainability researchers, 4,000 institutes, 5,000 open-access datasets, and 400,000 research papers across 60 sustainability themes, ranging from Solar Energy to Sustainable Supply Chains. Prof. Serpa will demonstrate how generative AI was used to identify sustainability researchers worldwide, categorize them, and invite them to the platform—and how a team of just three people managed to leverage AI to create the world’s largest social network dedicated to sustainability."
+  date: 2025-10-07
+  time: "16:00"
+  skip: False
+
 - fullname: Loubna Benabbou
   affiliations:
   -  "Université du Québec à Rimouski"
