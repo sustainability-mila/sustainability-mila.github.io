@@ -1,3 +1,18 @@
+- fullname: Anna Vartanyan
+  affiliations:
+  - Mila 
+  nametitle: 
+  position: Director of AI and Sustainability at Mila 
+  bio: "Anna is currently the Director of AI and Sustainability at Mila. Prior to joining Mila, she worked for various UN agencies, including UNEP, UNDP and FAO, where she oversaw the development of environmental projects and consulted on national strategies around the globe. A big part of her career was intertwined with the Montreal Protocol, the global treaty designed to solve Ozone Layer Depletion and, recently, phase down GHGs as per the Kigali Amendment."
+  photo: anna_vartanyan.jpg
+  alttext: Anna Vartanyan
+  title: "Montreal Protocol: the success story and global challenges for greenhouse gas (GHG) reduction in the HVAC sector"
+  abstract: "In this talk, Anna will give insights into how international collaboration led to the creation of the most successful environmental agreement to date, the connection between ozone layer depletion and climate change and how successful collaboration comes at its own cost (did we create new problems by solving one?). She will also explain the significant challenges we still have in phasing down GHG in the HVAC sector, how AI can help support the global efforts and the work being done at Mila in that domain."
+  session: inperson
+  date: 2025-10-21
+  time: "16:00"
+  skip: False
+
 - fullname: Juan Serpa
   affiliations:
   - McGill University 
