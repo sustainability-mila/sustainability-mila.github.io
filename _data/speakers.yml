@@ -1,3 +1,19 @@
+- fullname: Jacopo Ghirri
+  affiliations:
+  - Mila
+  nametitle: 
+  position: 
+  bio:
+  photo: jacopo_ghirri.png
+  alttext: Jacopo Ghirri
+  title: Economics of Climate Change
+  abstract: In this talk, Jacopo will introduce the economic dimension of climate change and discuss why understanding it is essential to achieving a just transition. He will show how the uneven impacts of climate change, both in terms of exposure and adaptive capacity, raise fundamental questions of fairness that Climate Economics seeks to address. The first part of the seminar will provide a broad overview of the main modeling tools used to study and design climate policies, with a focus on the WITCH Integrated Assessment Model and its applications to mitigation scenarios. The second part will explore how the IPCC allows for a direct line of communication between the scientific community and international negotiations. The talk will conclude by outlining current frontiers where AI and data science can contribute to help bridge the gap between climate economics, policy, and data-driven innovation.
+  session: nperson
+  date: 2025-11-04
+  time: "16:00"
+  skip: False
+
+
 - fullname: Anna Vartanyan
   affiliations:
   - Mila 

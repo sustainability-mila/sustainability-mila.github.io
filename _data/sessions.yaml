@@ -1,4 +1,10 @@
 - name: Talk
+  date: 2025-11-04
+  time_start: "16:00"
+  time_end: "17:00"
+  title:  "Economics of Climate Change"
+
+- name: Talk
   date: 2025-10-21
   time_start: "16:00"
   time_end: "17:00"
