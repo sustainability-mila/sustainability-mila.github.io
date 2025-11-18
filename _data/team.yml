@@ -8,26 +8,26 @@
   alttext: 
   twitter: none
   website: none
-# - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-#   bio: 
-#   committee: General Committee
-#   email: none
-#   fullname: Omar Salemohamed
-#   photo: omar.png
-#   pronouns: 
-#   alttext: 
-#   twitter: none
-#   website: none
-# - affiliation: Mila
-#   bio: 
-#   committee: General Committee
-#   email: none
-#   fullname: Maude Gohier-murray
-#   photo: maude.png
-#   pronouns: 
-#   alttext:  
-#   twitter: none
-#   website: none
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: "I'm a phd student working on understanding deep learning."
+  committee: General Committee
+  email: none
+  fullname: Omar Salemohamed
+  photo: omar.png
+  pronouns: 
+  alttext: 
+  twitter: none
+  website: none
+- affiliation: Mila
+  bio: "I'm the lab coordinator for David Rolnick's lab at the intersection of AI and Climate change. I have a Master in management and sustainability from HEC Montreal."
+  committee: General Committee
+  email: none
+  fullname: Maude Gohier-murray
+  photo: maude.png
+  pronouns: 
+  alttext:  
+  twitter: none
+  website: none
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a postdoc at Mila. I research machine learning methods to improve our Science to tackle the climate crisis.
   committee: General Committee

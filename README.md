@@ -14,3 +14,6 @@ bundle exec jekyll serve
     * [Dropdown in nav bar](https://bulma.io/documentation/components/navbar/)
     * [Tiles](https://bulma.io/documentation/layout/tiles/)
 
+
+# Update the website
+To add a new session, modify `_data/speakers.yml` and `_data/sessions.yaml`.
