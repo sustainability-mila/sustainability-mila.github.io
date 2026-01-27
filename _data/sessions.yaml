@@ -1,4 +1,10 @@
 - name: Talk
+  date: 2026-02-10
+  time_start: "17:00"
+  time_end: "19:00"
+  title:  "Al, data, and computing: shaping infrastructures for a decarbonised world"
+
+- name: Talk
   date: 2025-11-04
   time_start: "16:00"
   time_end: "17:00"

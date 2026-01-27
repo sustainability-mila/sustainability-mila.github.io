@@ -1,3 +1,18 @@
+- fullname: Alexandre Theve
+  affiliations:
+  - Davidson consulting
+  nametitle: 
+  position: 
+  bio: Computer and Industrial Engineer from École Centrale de Lille (France), Alexandre is passionated about tech and energy-related constraints, the role of humans within their environment, and the place of technology in our societies. He aspires to contribute to fostering a world founded on harmony among humans and between humans and nature. To help the tech industry to steer toward respecting planetary boundaries and to support the achievement of social foundations. He co-wrote a recent study with The Shift Project, French Think Tank, which focuses on the challenge that brings Artificial Intelligence, and particularly Generative AI, to the global energy grid and global greenhouse gases in the next 5 years.
+  photo: alexandre_theve.jpg
+  alttext: Alexandre Theve
+  title: "Al, data, and computing: shaping infrastructures for a decarbonised world"
+  abstract: "At a time when artificial intelligence (and its electricity consumption) dominates public debate, The Shift Project invites you to contribute to an informed discussion through its analytical framework: the physical and systemic vision of the economy. What energy-carbon trajectories are currently being driven by the data center and computing capacity sectors? What physically feasible futures are compatible with energy-carbon constraints? What lever do we have to steer our technological choices toward AI that aligns with energy-carbon constraints? This event will be an opportunity to present our findings, drawn from The Shift Project’s research launched in late 2024 on the energy-climate impacts and trajectories of AI infrastructure. The goal is to provide a framework for understanding the challenges ahead for decision-making in the coming years, at global level."
+  session: inperson
+  date: 2026-02-10
+  time: "17:00"
+  skip: False
+
 - fullname: Jacopo Ghirri
   affiliations:
   - Mila
@@ -8,7 +23,7 @@
   alttext: Jacopo Ghirri
   title: Economics of Climate Change
   abstract: In this talk, Jacopo will introduce the economic dimension of climate change and discuss why understanding it is essential to achieving a just transition. He will show how the uneven impacts of climate change, both in terms of exposure and adaptive capacity, raise fundamental questions of fairness that Climate Economics seeks to address. The first part of the seminar will provide a broad overview of the main modeling tools used to study and design climate policies, with a focus on the WITCH Integrated Assessment Model and its applications to mitigation scenarios. The second part will explore how the IPCC allows for a direct line of communication between the scientific community and international negotiations. The talk will conclude by outlining current frontiers where AI and data science can contribute to help bridge the gap between climate economics, policy, and data-driven innovation.
-  session: nperson
+  session: inperson
   date: 2025-11-04
   time: "16:00"
   skip: False
