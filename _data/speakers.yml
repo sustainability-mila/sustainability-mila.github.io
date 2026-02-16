@@ -1,6 +1,6 @@
 - fullname: Alexandre Theve
   affiliations:
-  - Davidson consulting
+  - Les Shifters Montreal
   nametitle: 
   position: 
   bio: Computer and Industrial Engineer from École Centrale de Lille (France), Alexandre is passionated about tech and energy-related constraints, the role of humans within their environment, and the place of technology in our societies. He aspires to contribute to fostering a world founded on harmony among humans and between humans and nature. To help the tech industry to steer toward respecting planetary boundaries and to support the achievement of social foundations. He co-wrote a recent study with The Shift Project, French Think Tank, which focuses on the challenge that brings Artificial Intelligence, and particularly Generative AI, to the global energy grid and global greenhouse gases in the next 5 years.
@@ -12,6 +12,10 @@
   date: 2026-02-10
   time: "17:00"
   skip: False
+  tags:
+    - name: Recording
+      link: https://drive.google.com/file/d/1TRXjLUEnVfu9cjyTGKY0OGRulI4vLDyg/view?usp=sharing
+
 
 - fullname: Jacopo Ghirri
   affiliations:
