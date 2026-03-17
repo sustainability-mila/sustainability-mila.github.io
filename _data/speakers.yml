@@ -1,3 +1,53 @@
+
+
+- fullname: Pierre-Olivier Pineau
+  affiliations:
+  - HEC Montréal
+  nametitle: 
+  position: Full Professor at HEC Montréal and Chair in Energy Sector
+  bio: Prof. Pierre-Olivier Pineau, Full Professor at HEC Montréal and Chair in Energy Sector Management. He specializes in energy policy, focusing particularly on the electricity sector. He has published numerous articles on the energy industry, most of which explore the links between energy and various aspects of sustainable development. He is a frequent media commentator on current energy issues and has produced various reports for government and public organizations. He also served on the Government of Quebec’s Advisory Committee on Climate Change.
+  photo: 
+  alttext: 
+  title: Energy Planning for an Uncertain Future
+  abstract: AI will require a lot of power, but this is all too common in our energy-hungry lifestyle. We need to prepare for new and existing energy needs while being in the middle of many uncertainties. Future climate, prices, human and material resources can indeed move in many different directions, and our political leadership is incapable of setting a coherent course of action. This presentation will cover different aspects of my research in energy policy to discuss the energy challenges we face. Possible development paths will be identified, with some attempts to assess what role could AI play in moving forward.
+  session: inperson
+  date: 2026-03-30
+  time: "12:30"
+  skip: False
+
+- fullname: Jérôme Lavoie
+  affiliations:
+  - CIRAIG
+  nametitle: 
+  position: 
+  bio: Jérôme Lavoie is a researcher and analyst at CIRAIG (an internationally recognized center for life cycle and sustainability metrics here in Montreal). Jérôme will present some of his and CIRAIG's work on key issues related to food and packaging waste.
+  photo: 
+  alttext: 
+  title: 
+  abstract: 
+  session: inperson
+  date:  2026-03-24
+  time: "16:00"
+  skip: False
+
+
+- fullname: Yuyan Chen
+  affiliations:
+  - McGill University, Mila
+  nametitle: 
+  position: PhD student
+  bio: Yuyan Chen is a PhD student in Computer Science at McGill University and Mila - Quebec AI Institute, supervised by Prof. David Rolnick. Her research focuses on machine learning for biodiversity monitoring, including automated insect monitoring and species discovery.
+  photo: yuyan.png
+  alttext: 
+  title:  "Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring" 
+  abstract: "Global biodiversity is declining at an unprecedented rate, yet little information is known about most species and how their populations are changing. Indeed, some 90% Earth’s species are estimated to be completely unknown. Machine learning has recently emerged as a promising tool to facilitate long-term, large-scale biodiversity monitoring, including algorithms for fine-grained classification of species from images. However, such algorithms typically are not designed to detect examples from categories unseen during training – the problem of open-set recognition (OSR) – limiting their applicability for highly diverse, poorly studied taxa such as insects. To address this gap, we introduce Open-Insect, a large-scale, fine-grained dataset to evaluate unknown species detection across different geographic regions with varying difficulty. We benchmark 38 OSR algorithms across three categories: post-hoc, training-time regularization, and training with auxiliary data, finding that simple post-hoc approaches remain a strong baseline. We also demonstrate how to leverage auxiliary data to improve species discovery in regions with limited data. Our results provide timely insights to guide the development of computer vision methods for biodiversity monitoring and species discovery."
+  session: inperson
+  date: 2026-02-24
+  time: "16:00"
+  skip: False
+
+
+
 - fullname: Alexandre Theve
   affiliations:
   - Les Shifters Montreal

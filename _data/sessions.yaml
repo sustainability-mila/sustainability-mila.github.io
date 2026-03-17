@@ -1,4 +1,20 @@
 - name: Talk
+  date: 2026-03-30
+  time_start: "12:30"
+  time_end: "13:30"
+  title:  "Energy Planning for an Uncertain Future"
+- name: Talk
+  date: 2026-03-24
+  time_start: "16:00"
+  time_end: "17:00"
+  title:  "Food and Packaging Waste"
+- name: Talk
+  date: 2026-02-24
+  time_start: "16:00"
+  time_end: "17:00"
+  title:  "Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring"
+
+- name: Talk
   date: 2026-02-10
   time_start: "17:00"
   time_end: "19:00"
