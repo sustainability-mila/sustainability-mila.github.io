@@ -1,3 +1,18 @@
+- fullname: Florence Cloutier
+  affiliations: 
+  - Mila 
+  - Université de Montréal
+  nametitle: 
+  position: Master's Research
+  bio:
+  photo: 
+  alttext: 
+  title: "Towards Sustainable Control of Real-World Systems: Reinforcement Learning in Large and Dynamic Graph-Structured Environments"
+  abstract: Real-world infrastructure — power grids, traffic networks, communication systems — is largely controlled by hand-crafted, rule-based methods that are far from optimal, leading to costly and environmentally wasteful operations. Machine learning offers a promising solution to optimizing these systems. Yet, deploying RL at scale and reliably in these environments remains an open challenge. Many of these systems are naturally represented as graphs, and we argue that exploiting this structure as an inductive bias can be an important lever to making RL tractable at scale. This talk explores the core challenges of learning effective RL policies within this graph-structured framing: adapting RL algorithms to graph-structured data, handling variable observation and action spaces, coping with the non-stationarity of dynamic graph topologies on top of that already inherent to RL, building graph-invariant policies that generalize across topologies of different sizes, and scaling to the combinatorial complexity of real-world environments. We present ongoing work and directions for tackling these challenges, and reflect on what it will take to bring RL agents to the scale and reliability needed for controlling these critical infrastructures in a sustainable way.
+  session: inperson
+  date: 2026-04-21
+  time: "16:00"
+  skip: False
 
 
 - fullname: Pierre-Olivier Pineau
@@ -171,7 +186,7 @@
 - fullname: Mélisande Teng
   affiliations:
   - Mila 
-  - Université de Montréa
+  - Université de Montréal
   nametitle: 
   position: PhD student 
   bio: "She's currently working on application of machine learning to tackle climate change under the supervision of Prof. Yoshua Bengio, Prof. Hugo Larochelle, and Prof. David Rolnick. Her talk will be about her latest work SatBird: Bird Species Distribution Modeling with Remote Sensing and Citizen Science Data. "
