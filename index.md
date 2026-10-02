@@ -8,6 +8,10 @@ toc: false
 
 The Mila Sustainability Reading Group is ... fantastic!
 
+
+## Upcoming Sessions
+{% include upcoming.html %}
+
 # Contact
 
 🌱 <a href="https://forms.gle/UvYw3ZUBAERuRvC8A" target="_blank">Click here to sign up!</a> We’ll keep you updated on upcoming sessions. 

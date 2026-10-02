@@ -1,3 +1,19 @@
+- fullname: Andrew Quitmeyer
+  affiliations: 
+  - Digital Naturalism Laboratories
+  nametitle: 
+  position:
+  bio: "Dr. Andy Quitmeyer designs new ways to interact with the natural world. Quitmeyer has worked with large organizations like Cartoon Network, IDEO, and the Smithsonian, taught as a tenure-track professor, and even had his research turned into a (silly) television series called \"Hacking the Wild.\" distributed by Discovery. He now spends most of his time volunteering with smaller organizations and communities, and recently founded the field-station/makerspace, Digital Naturalism Laboratories (https://www.dinalab.net/). In the rainforest of Gamboa, Panama, Dinalab blends biological fieldwork and technological crafting with a community of local and international scientists, artists and engineers. Our current project is the open-source insect biodiversity monitor, the Mothbox (mothbox.org)."
+  photo: andy_quitmeyer.jpg
+  alttext: 
+  title: "Dinalab, Mothbox, and Open Source Science"
+  abstract: "Dr. Andrew Quitmeyer will give a talk about building open source tools with communities of scientists around the world. We will discuss the trickinesses of making technology for field biology, contextual crafting, jungle makerspaces, and his open source insect monitoring tool, the Mothbox."
+  session: inperson
+  date: 2026-10-07
+  time: "12:00"
+  skip: False
+
+
 - fullname: Florence Cloutier
   affiliations: 
   - Mila 
@@ -8,7 +24,7 @@
   photo: 
   alttext: 
   title: "Towards Sustainable Control of Real-World Systems: Reinforcement Learning in Large and Dynamic Graph-Structured Environments"
-  abstract: Real-world infrastructure — power grids, traffic networks, communication systems — is largely controlled by hand-crafted, rule-based methods that are far from optimal, leading to costly and environmentally wasteful operations. Machine learning offers a promising solution to optimizing these systems. Yet, deploying RL at scale and reliably in these environments remains an open challenge. Many of these systems are naturally represented as graphs, and we argue that exploiting this structure as an inductive bias can be an important lever to making RL tractable at scale. This talk explores the core challenges of learning effective RL policies within this graph-structured framing: adapting RL algorithms to graph-structured data, handling variable observation and action spaces, coping with the non-stationarity of dynamic graph topologies on top of that already inherent to RL, building graph-invariant policies that generalize across topologies of different sizes, and scaling to the combinatorial complexity of real-world environments. We present ongoing work and directions for tackling these challenges, and reflect on what it will take to bring RL agents to the scale and reliability needed for controlling these critical infrastructures in a sustainable way.
+  abstract: "Real-world infrastructure — power grids, traffic networks, communication systems — is largely controlled by hand-crafted, rule-based methods that are far from optimal, leading to costly and environmentally wasteful operations. Machine learning offers a promising solution to optimizing these systems. Yet, deploying RL at scale and reliably in these environments remains an open challenge. Many of these systems are naturally represented as graphs, and we argue that exploiting this structure as an inductive bias can be an important lever to making RL tractable at scale. This talk explores the core challenges of learning effective RL policies within this graph-structured framing: adapting RL algorithms to graph-structured data, handling variable observation and action spaces, coping with the non-stationarity of dynamic graph topologies on top of that already inherent to RL, building graph-invariant policies that generalize across topologies of different sizes, and scaling to the combinatorial complexity of real-world environments. We present ongoing work and directions for tackling these challenges, and reflect on what it will take to bring RL agents to the scale and reliability needed for controlling these critical infrastructures in a sustainable way."
   session: inperson
   date: 2026-04-21
   time: "16:00"

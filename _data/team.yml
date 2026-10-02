@@ -1,4 +1,26 @@
 - affiliation: Mila, McGill University
+  bio: 
+  committee: General Committee
+  email: none
+  fullname: Brian MacDonald
+  photo: 
+  pronouns: 
+  alttext: 
+  twitter: none
+  website: none
+  current: true
+- affiliation: Mila, McGill University
+  bio: I'm a PhD student working on machine learning for biodiversity monitoring.
+  committee: General Committee
+  email: none
+  fullname: Yuyan Chen
+  photo: yuyan.png
+  pronouns: she/elle
+  alttext: 
+  twitter: none
+  website: https://yuyan-c.github.io/
+  current: true
+- affiliation: Mila, McGill University
   bio: I'm a PhD student working on machine learning for biodiversity monitoring.
   committee: General Committee
   email: none
@@ -8,6 +30,7 @@
   alttext: 
   twitter: none
   website: none
+  current: true
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: "I'm a phd student working on understanding deep learning."
   committee: General Committee
@@ -18,6 +41,7 @@
   alttext: 
   twitter: none
   website: none
+  current: false
 - affiliation: Mila
   bio: "I'm the lab coordinator for David Rolnick's lab at the intersection of AI and Climate change. I have a Master in management and sustainability from HEC Montreal."
   committee: General Committee
@@ -28,6 +52,7 @@
   alttext:  
   twitter: none
   website: none
+  current: true
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a postdoc at Mila. I research machine learning methods to improve our Science to tackle the climate crisis.
   committee: General Committee
@@ -38,6 +63,7 @@
   alttext: Alex has white skin, green eyes, a thick dark beard and dark long hair though with noticeable receding hairline.
   twitter: https://twitter.com/alexhdezgcia
   website: https://alexhernandezgarcia.github.io
+  current: false
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: I am a third-year Ph.D. student at Mila working on environmental applications of AI. My current research focuses on biodiversity monitoring using remote sensing and citizen science data.
   committee: General Committee
@@ -47,6 +73,7 @@
   pronouns: "she/elle"
   twitter: https://twitter.com/melisandeteng
   website: https://melisandeteng.github.io
+  current: false
 - affiliation: "Mila"
   bio: I am Annie-Shan :)
   committee: General Committee
@@ -55,6 +82,7 @@
   photo: annie-shan_morin.jpg
   pronouns: "she/elle"
   website: https://mila.quebec/personne/annie-shan-morin/
+  current: false
 - affiliation: "Mila, McGill University"
   bio: I am a postdoc at Mila working on machine learning and computer vision for forest monitoring. I am also a core team member in the non-profit organization Climate Change AI.
   committee: General Committee
@@ -65,3 +93,4 @@
   alttext: Arthur
   twitter: https://twitter.com/ArthurOuaknine
   website: https://arthurouaknine.github.io/
+  current: false
