@@ -1,9 +1,9 @@
 - affiliation: Mila, McGill University
-  bio: 
+  bio: "Hi! I am a second-year Master's student working on AI applications in healthcare at the iSMART Lab. I also have a BSc in Sustainable Design Engineering!"
   committee: General Committee
   email: none
   fullname: Brian MacDonald
-  photo: 
+  photo: brian_macdonald.png
   pronouns: 
   alttext: 
   twitter: none
@@ -30,17 +30,6 @@
   alttext: 
   twitter: none
   website: https://yuyan-c.github.io/
-  current: true
-- affiliation: Mila, McGill University
-  bio: I'm a PhD student working on machine learning for biodiversity monitoring.
-  committee: General Committee
-  email: none
-  fullname: Yuyan Chen
-  photo: yuyan.png
-  pronouns: 
-  alttext: 
-  twitter: none
-  website: none
   current: true
 - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
   bio: "I'm a phd student working on understanding deep learning."
